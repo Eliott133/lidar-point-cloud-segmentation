@@ -80,26 +80,16 @@ https://semantic-kitti.org/
 conda create -n randlanet python=3.9
 conda activate randlanet
 
-## 2. Install dependencies
-```bash
+2. Install dependencies
+
 pip install -r requirements.txt
 
-## 3. Compile custom operators
+3. Compile custom operators
 
-RandLA-Net relies on custom C++ extensions for:
-
-nearest neighbor search
-
-grid subsampling
-
-Compile them with:
-
-```bash
 sh compile_op.sh
 
-## 4. Tranning and pre-processing
+4. Tranning and pre-processing
 
-```bash
 sbatch train_randlnet.sbatch
 
 
