@@ -1,0 +1,236 @@
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2026-03-09 11:27:46.058300
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2026-03-09 14:59:51.406502
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2026-03-09 15:10:47.171142
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2026-03-09 15:14:28.945184
+ ---- batch: 010 ----
+mean acc: 0.934149
+mean loss: 1.336923
+ ---- batch: 020 ----
+mean acc: 0.930939
+mean loss: 1.322871
+ ---- batch: 030 ----
+mean acc: 0.928874
+mean loss: 1.434043
+ ---- batch: 040 ----
+mean acc: 0.928944
+mean loss: 1.447063
+ ---- batch: 050 ----
+mean acc: 0.932475
+mean loss: 1.316464
+ ---- batch: 060 ----
+mean acc: 0.932853
+mean loss: 1.323008
+ ---- batch: 070 ----
+mean acc: 0.927838
+mean loss: 1.369315
+ ---- batch: 080 ----
+mean acc: 0.926038
+mean loss: 1.453389
+ ---- batch: 090 ----
+mean acc: 0.928833
+mean loss: 1.396688
+ ---- batch: 100 ----
+mean acc: 0.932494
+mean loss: 1.388964
+ ---- batch: 110 ----
+mean acc: 0.933194
+mean loss: 1.370512
+ ---- batch: 120 ----
+mean acc: 0.930797
+mean loss: 1.393043
+ ---- batch: 130 ----
+mean acc: 0.932869
+mean loss: 1.315512
+ ---- batch: 140 ----
+mean acc: 0.931224
+mean loss: 1.390507
+ ---- batch: 150 ----
+mean acc: 0.930818
+mean loss: 1.408209
+ ---- batch: 160 ----
+mean acc: 0.926518
+mean loss: 1.382029
+ ---- batch: 170 ----
+mean acc: 0.929419
+mean loss: 1.355478
+ ---- batch: 180 ----
+mean acc: 0.928582
+mean loss: 1.422347
+ ---- batch: 190 ----
+mean acc: 0.933160
+mean loss: 1.355133
+ ---- batch: 200 ----
+mean acc: 0.927594
+mean loss: 1.359952
+ ---- batch: 210 ----
+mean acc: 0.933856
+mean loss: 1.367598
+ ---- batch: 220 ----
+mean acc: 0.928523
+mean loss: 1.463552
+ ---- batch: 230 ----
+mean acc: 0.929560
+mean loss: 1.410724
+ ---- batch: 240 ----
+mean acc: 0.932944
+mean loss: 1.359936
+ ---- batch: 250 ----
+mean acc: 0.933479
+mean loss: 1.307888
+ ---- batch: 260 ----
+mean acc: 0.932903
+mean loss: 1.332484
+ ---- batch: 270 ----
+mean acc: 0.930077
+mean loss: 1.416198
+ ---- batch: 280 ----
+mean acc: 0.935437
+mean loss: 1.332830
+ ---- batch: 290 ----
+mean acc: 0.931046
+mean loss: 1.359408
+ ---- batch: 300 ----
+mean acc: 0.929662
+mean loss: 1.363327
+ ---- batch: 310 ----
+mean acc: 0.932999
+mean loss: 1.369055
+ ---- batch: 320 ----
+mean acc: 0.934196
+mean loss: 1.315265
+ ---- batch: 330 ----
+mean acc: 0.931263
+mean loss: 1.372904
+ ---- batch: 340 ----
+mean acc: 0.931708
+mean loss: 1.373076
+ ---- batch: 350 ----
+mean acc: 0.932405
+mean loss: 1.408715
+ ---- batch: 360 ----
+mean acc: 0.930084
+mean loss: 1.346929
+ ---- batch: 370 ----
+mean acc: 0.930030
+mean loss: 1.419656
+ ---- batch: 380 ----
+mean acc: 0.932876
+mean loss: 1.409025
+ ---- batch: 390 ----
+mean acc: 0.931406
+mean loss: 1.398648
+ ---- batch: 400 ----
+mean acc: 0.927447
+mean loss: 1.397126
+ ---- batch: 410 ----
+mean acc: 0.931729
+mean loss: 1.365060
+ ---- batch: 420 ----
+mean acc: 0.929441
+mean loss: 1.391004
+ ---- batch: 430 ----
+mean acc: 0.932928
+mean loss: 1.306490
+ ---- batch: 440 ----
+mean acc: 0.932981
+mean loss: 1.334981
+ ---- batch: 450 ----
+mean acc: 0.931167
+mean loss: 1.328693
+ ---- batch: 460 ----
+mean acc: 0.934858
+mean loss: 1.332565
+ ---- batch: 470 ----
+mean acc: 0.927562
+mean loss: 1.436556
+ ---- batch: 480 ----
+mean acc: 0.930038
+mean loss: 1.358641
+ ---- batch: 490 ----
+mean acc: 0.930701
+mean loss: 1.375955
+ ---- batch: 500 ----
+mean acc: 0.930167
+mean loss: 1.364792
+ ---- batch: 510 ----
+mean acc: 0.938869
+mean loss: 1.243115
+ ---- batch: 520 ----
+mean acc: 0.932019
+mean loss: 1.367971
+ ---- batch: 530 ----
+mean acc: 0.927242
+mean loss: 1.389935
+ ---- batch: 540 ----
+mean acc: 0.930040
+mean loss: 1.380922
+ ---- batch: 550 ----
+mean acc: 0.930865
+mean loss: 1.394764
+Train samples: 19130
+Val samples: 4071
+Train batches: 957
+Val batches: 204
+Batch size: 20
+Num workers: 4
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+====================================
+START TRAINING
+start_epoch: 61
+max_epoch: 400
+log_dir: output
+checkpoint_path: output/checkpoint.tar
+====================================
+**** EPOCH 061 / 399 ****
+2026-03-09 15:30:23.235431
+[TRAIN] Epoch 061 started | lr=0.00041578
+[TRAIN] Epoch 061 | batch 0010/0957 (  1.0%) | 2.009s/batch
+[TRAIN] mean acc: 0.931763
+[TRAIN] mean loss: 1.365753
+[TRAIN] Epoch 061 | batch 0020/0957 (  2.1%) | 1.612s/batch
+[TRAIN] mean acc: 0.929053
+[TRAIN] mean loss: 1.380726
+[TRAIN] Epoch 061 | batch 0030/0957 (  3.1%) | 1.604s/batch
+[TRAIN] mean acc: 0.933255
+[TRAIN] mean loss: 1.397166
+[TRAIN] Epoch 061 | batch 0040/0957 (  4.2%) | 1.611s/batch
+[TRAIN] mean acc: 0.927936
+[TRAIN] mean loss: 1.379424
+[TRAIN] Epoch 061 | batch 0050/0957 (  5.2%) | 1.614s/batch
+[TRAIN] mean acc: 0.931440
+[TRAIN] mean loss: 1.415725
+[TRAIN] Epoch 061 | batch 0060/0957 (  6.3%) | 1.622s/batch
+[TRAIN] mean acc: 0.931656
+[TRAIN] mean loss: 1.380005
+[TRAIN] Epoch 061 | batch 0070/0957 (  7.3%) | 1.608s/batch
+[TRAIN] mean acc: 0.931230
+[TRAIN] mean loss: 1.332786
+[TRAIN] Epoch 061 | batch 0080/0957 (  8.4%) | 1.597s/batch
+[TRAIN] mean acc: 0.930164
+[TRAIN] mean loss: 1.357478
+[TRAIN] Epoch 061 | batch 0090/0957 (  9.4%) | 1.605s/batch
+[TRAIN] mean acc: 0.932512
+[TRAIN] mean loss: 1.375134
+[TRAIN] Epoch 061 | batch 0100/0957 ( 10.4%) | 1.617s/batch
+[TRAIN] mean acc: 0.930454
+[TRAIN] mean loss: 1.389721
+[TRAIN] Epoch 061 | batch 0110/0957 ( 11.5%) | 1.604s/batch
+[TRAIN] mean acc: 0.927075
+[TRAIN] mean loss: 1.427243
+[TRAIN] Epoch 061 | batch 0120/0957 ( 12.5%) | 1.609s/batch
+[TRAIN] mean acc: 0.929635
+[TRAIN] mean loss: 1.355057
+[TRAIN] Epoch 061 | batch 0130/0957 ( 13.6%) | 1.619s/batch
+[TRAIN] mean acc: 0.933144
+[TRAIN] mean loss: 1.364953
+[TRAIN] Epoch 061 | batch 0140/0957 ( 14.6%) | 1.611s/batch
+[TRAIN] mean acc: 0.930376
+[TRAIN] mean loss: 1.359140
