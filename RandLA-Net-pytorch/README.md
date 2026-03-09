@@ -50,3 +50,57 @@ Instead of expensive **Farthest Point Sampling (FPS)**, RandLA-Net uses **random
 ## 4. Encoder–Decoder structure
 
 The network follows a hierarchical structure:
+
+
+
+
+---
+
+# Dataset
+
+We use the **SemanticKITTI dataset**, which provides point-wise annotations for LiDAR scans from autonomous driving scenes.
+
+Expected dataset structure:
+
+
+
+
+
+Official dataset:
+
+https://semantic-kitti.org/
+
+---
+
+# Installation
+
+## 1. Create environment
+
+```bash
+conda create -n randlanet python=3.9
+conda activate randlanet
+
+## 2. Install dependencies
+```bash
+pip install -r requirements.txt
+
+## 3. Compile custom operators
+
+RandLA-Net relies on custom C++ extensions for:
+
+nearest neighbor search
+
+grid subsampling
+
+Compile them with:
+
+```bash
+sh compile_op.sh
+
+## 4. Tranning and pre-processing
+
+```bash
+sbatch train_randlnet.sbatch
+
+
+
