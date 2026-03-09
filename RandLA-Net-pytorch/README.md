@@ -72,23 +72,17 @@ https://semantic-kitti.org/
 
 ---
 
-# Installation
+# Installation 
 
-## 1. Create environment
+## 1. Create environnement and launch some command to trainning
 
 ```bash
 conda create -n randlanet python=3.9
 conda activate randlanet
 
-2. Install dependencies
-
 pip install -r requirements.txt
 
-3. Compile custom operators
-
 sh compile_op.sh
-
-4. Tranning and pre-processing
 
 sbatch train_randlnet.sbatch
 
