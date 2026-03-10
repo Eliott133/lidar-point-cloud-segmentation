@@ -1,0 +1,6 @@
+.gitattributes
+.ipynb_checkpoints
+logs
+.venv
+.python-version
+
