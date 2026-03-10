@@ -4,15 +4,15 @@
 
 > [Source de l'image](https://github.com/PRBonn/semantic-kitti-api)
 
-## 📊 Dataset
+## Dataset
 
-### 📝 Aperçu Général (Overview)
+### Overview
 Ce projet utilise **SemanticKITTI**, un dataset de référence à grande échelle pour la compréhension de scènes en extérieur via LiDAR. Basé sur le célèbre dataset KITTI Vision Benchmark, SemanticKITTI fournit des annotations denses point par point pour l'intégralité des séquences d'odométrie LiDAR. Il couvre une grande variété d'environnements urbains (rues, autoroutes, zones résidentielles) et inclut des objets statiques ainsi que des agents dynamiques.
 
-### 🎯 Objectif
+### Objectif
 L'objectif associé à ce dataset est la **segmentation sémantique 3D**. Pour chaque scan LiDAR (nuage de points), le modèle d'apprentissage profond (ex: RandLA-Net, PointPillars, etc.) doit prédire une classe sémantique spécifique (voiture, piéton, route, bâtiment, végétation, etc.) pour **chaque point individuel** de la scène.
 
-### 📁 Structure du Dossier (Folder Structure)
+### Structure du Dossier
 Pour que les scripts d'entraînement et de prétraitement fonctionnent correctement, le dataset doit être organisé selon la hiérarchie suivante :
 
 ```text
