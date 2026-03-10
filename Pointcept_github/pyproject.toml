@@ -1,5 +1,4 @@
 [project]
-<<<<<<< HEAD
 name = "pointcept"
 version = "0.1.0"
 description = "Add your description here"
@@ -157,41 +156,3 @@ dependencies = [
 torch-cluster = ["torch"]
 torch-scatter = ["torch"]
 torch-sparse = ["torch"]
-=======
-name = "lidar-point-cloud-segmentation"
-version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-authors = [
-    { name = "JosueAhobade", email = "ahojoseher@gmail.com" },
-    { name = "Eliott", email = "Eliott.Maubert.Etu@univ-lemans.fr" },
-    { name = "Raphaël", email = "Raphael.Bandeira.Etu@univ-lemans.fr" }
-]
-requires-python = ">=3.8.20"
-dependencies = [
-    "click>=8.1.8",
-    "mlflow>=2.17.2",
-    "pyyaml>=6.0.3",
-]
-
-[project.scripts]
-lidar-point-cloud-segmentation = "lidar_point_cloud_segmentation:main"
-
-[build-system]
-requires = ["uv_build>=0.10.8,<0.11.0"]
-build-backend = "uv_build"
-
-[dependency-groups]
-dev = [
-    "mlflow>=2.17.2",
-    "pandas>=2.0.3",
-    "plotly>=6.6.0",
-    "pydantic>=2.10.6",
-    "pytest>=8.3.5",
-    "pyyaml>=6.0.3",
-    "rich>=13.9.4",
-    "ruff>=0.15.5",
-    "streamlit>=1.40.1",
-    "typer>=0.20.1",
-]
->>>>>>> b58aad033430a6bf5134b67db900c3cc63bd9452
