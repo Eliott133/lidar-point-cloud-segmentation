@@ -56,7 +56,7 @@ Une fois la compilation terminée, revenez à la racine du projet et vérifiez q
 
 Bash
 cd ../..
-uv run python -c "import pointops; print('✅ Succès : Pointops est correctement installé et opérationnel !')"
+uv run python -c "import pointops; print('Succès : Pointops est correctement installé et opérationnel')"
 
 Bash
 # Activation de l'environnement
