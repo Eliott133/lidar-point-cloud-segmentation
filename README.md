@@ -50,6 +50,17 @@ dataset/
 
 Pour la segmentation sementique 3D nous utilisons les dossiers : `velodyne/` et `labels/`
 
+### Taille et Volumétrie
+SemanticKITTI est un dataset à très grande échelle. Avant de lancer le téléchargement ou les scripts d'entraînement, assurez-vous de disposer de suffisamment d'espace de stockage et de mémoire matérielle (RAM / VRAM).
+
+* **Nombre de scans (Frames)** : **43 552 scans LiDAR** au total (23 201 pour l'entraînement/validation, et 20 351 pour le test).
+* **Nombre de points** : Un scan Velodyne typique contient entre 100 000 et 130 000 points. Le dataset complet représente **plus de 4,5 milliards de points annotés** individuellement.
+* **Espace disque requis (Estimations)** :
+  * Nuages de points bruts (`velodyne/`) : ~75 Go
+  * Annotations (`labels/`) : ~1 Go
+  * Grilles denses (`voxels/` - *uniquement si utilisé*) : ~10 Go supplémentaires.
+  * **Recommandation** : Prévoyez au moins **90 Go à 110 Go d'espace libre** sur un disque de stockage très rapide (idéalement un SSD NVMe) pour décompresser l'intégralité du dataset et héberger les fichiers temporaires/cache générés lors des prétraitements.
+
 ### Format des données 
 
 - **Nuages de points (`.bin`)** : Les données LiDAR brutes sont stockées sous forme de fichiers binaires. Chaque point est représenté par 4 valeurs en virgule flottante `(float32)` : les coordonnées spatiales `(X, Y, Z)` et la réflectance/intensité du signal LiDAR.
