@@ -5,11 +5,11 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=10
-#SBATCH --mem=80G
+#SBATCH --mem=50G
 #SBATCH --gres=gpu:1
 #SBATCH --time=150:00:00
 #SBATCH --partition=gpu
-#SBATCH --nodelist=gpue09
+#SBATCH --nodelist=gpue06
 
 cd ./PointNet
 
