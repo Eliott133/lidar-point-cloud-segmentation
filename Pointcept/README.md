@@ -31,7 +31,7 @@ cd lidar-point-cloud-segmentation
 Placez-vous dans le dossier du modèle, chargez les variables CUDA du serveur, et lancez la compilation. L'outil uv se chargera de créer l'environnement virtuel.
 
 ```bash
-cd Pointcept_github
+cd Pointcept
 
 export CUDA_HOME=/opt/cuda/12.4
 export PATH=$CUDA_HOME/bin:$PATH
