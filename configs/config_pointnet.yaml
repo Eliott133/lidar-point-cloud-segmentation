@@ -1,0 +1,13 @@
+# config.yaml
+model:
+  in_channels: 4      # Par exemple : X, Y, Z, Intensité
+  num_classes: 20
+  
+  encoder:
+    channels: [64, 64, 64, 128, 1024]
+    local_feature_index: 1          # Index de la couche pour extraire les features locales
+    feature_transform_index: 1      # Index de la couche après laquelle appliquer le T-Net latent
+    
+  decoder:
+    channels: [512, 256, 128]
+    dropout_rate: 0.3
