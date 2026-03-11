@@ -9,21 +9,20 @@
 #SBATCH --gres=gpu:1
 #SBATCH --time=150:00:00
 #SBATCH --partition=gpu
+#SBATCH --nodelist=gpue06
 
 cd ./Cylinder3D
 
-# 2. Charger les modules système nécessaires (CUDA)
+# chargement module cuda
 module load cuda
 
-# 3. Vérifications de routine (Optionnel)
 nvcc --version
 nvidia-smi
 
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
-# 4. Lancer l'entraînement avec uv
 echo "Démarrage de l'entraînement via UV..."
 
-# uv run --project Cylinder3D torchrun --nproc_per_node=1 train_cylinder_asym.py --config_path config/semantickitti.yaml
+uv run --project Cylinder3D torchrun --nproc_per_node=1 train_cylinder_asym.py --config_path config/semantickitti.yaml
 
-uv run --project Cylinder3D python test.py
+# uv run --project Cylinder3D python test.py
