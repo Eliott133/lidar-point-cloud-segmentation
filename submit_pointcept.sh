@@ -26,4 +26,4 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export PYTHONPATH=$PWD:$PYTHONPATH
 
 nvidia-smi
-uv run sh scripts/train.sh -p python -g 1 -d semantic_kitti -c semseg-pt-v2m2-0-base -n run_ptv2_kitti
+uv run sh scripts/train.sh -p python -g 1 -d semantic_kitti -c ../configs/config_pointcept.yaml -n run_ptv2_kitti
