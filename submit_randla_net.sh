@@ -39,8 +39,7 @@ echo "===================================="
 echo "STEP 2: START TRAINING"
 echo "===================================="
 
-uv run --active python main_SemanticKITTI.py \
-  --checkpoint_path output/checkpoint.tar \
+uv run --project RandLA-Net-pytorch python RandLA-Net-pytorch/main_SemanticKITTI.py \
   --log_dir logs \
   --max_epoch 150 \
   --batch_size 2
