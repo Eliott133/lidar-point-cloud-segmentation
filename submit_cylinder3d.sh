@@ -23,6 +23,6 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 echo "Démarrage de l'entraînement via UV..."
 
-uv run --project Cylinder3D torchrun --nproc_per_node=1 train_cylinder_asym.py --config_path config/semantickitti.yaml
+uv run --project Cylinder3D torchrun --nproc_per_node=1 train_cylinder_asym.py --config_path ../configs/semantickitti.yaml
 
 # uv run --project Cylinder3D python test.py
