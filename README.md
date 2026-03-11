@@ -4,6 +4,18 @@
 
 > [Source de l'image](https://github.com/PRBonn/semantic-kitti-api)
 
+## Présentation
+
+Ce projet est dédié à la segmentation sémantique 3D de nuages de points LiDAR à grande échelle, en utilisant principalement le dataset SemanticKITTI. L'objectif est d'assigner une classe sémantique (véhicule, piéton, route, etc.) à chaque point individuel d'un scan LiDAR.
+
+Le dépôt regroupe plusieurs architectures de pointe pour comparer leurs performances et leur efficacité : PointNet, RandLA-Net, Cylinder3D et la suite de modèles via Pointcept.
+
+## Contributeurs
+
+| [Eliott](https://github.com/Eliott133) | [Josué](https://github.com/JosueAhobade) | [Raphael](https://github.com/Rapha76) |
+| --- | --- | --- |
+
+
 ## Dataset
 
 ### Overview

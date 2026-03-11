@@ -82,6 +82,8 @@ Ce projet utilise **uv** pour gérer l’environnement Python.
 Depuis le dossier du projet :
 
 ```bash
+
+cd RandLA-Net-pytorch
 uv sync
 
 #Compilation des opérations C++
