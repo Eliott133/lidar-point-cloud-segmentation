@@ -21,14 +21,6 @@ echo "===================================="
 
 REPO_DIR=./RandLA-Net-pytorch
 
-mkdir -p "${REPO_DIR}/logs"
-cd "${REPO_DIR}" || exit 1
-uv venv --python 3.9
-echo "Repo: ${REPO_DIR}"
-
-echo "========= ACTIVATE UV ENV ========="
-source .venv/bin/activate
-
 echo "========= PYTHON INFO ========="
 uv run --active python -c "import sys; print('Python:', sys.executable)"
 uv run --active python -c "import torch; print('Torch:', torch.__version__); print('CUDA available:', torch.cuda.is_available())"
