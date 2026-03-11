@@ -8,7 +8,7 @@ authors = [
     { name = "Eliott", email = "Eliott.Maubert.Etu@univ-lemans.fr" },
     { name = "Raphaël", email = "Raphael.Bandeira.Etu@univ-lemans.fr" }
 ]
-requires-python = ">=3.8.20"
+requires-python = ">=3.9.25"
 dependencies = [
     "click>=8.1.8",
     "mlflow>=2.17.2",

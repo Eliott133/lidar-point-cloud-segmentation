@@ -1,5 +1,5 @@
 def main():
-    print("Hello from cylinder3d-uv!")
+    print("Hello from lib!")
 
 
 if __name__ == "__main__":
