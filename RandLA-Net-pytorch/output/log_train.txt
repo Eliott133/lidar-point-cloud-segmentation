@@ -234,3 +234,26 @@ checkpoint_path: output/checkpoint.tar
 [TRAIN] Epoch 061 | batch 0140/0957 ( 14.6%) | 1.611s/batch
 [TRAIN] mean acc: 0.930376
 [TRAIN] mean loss: 1.359140
+Train samples: 19130
+Val samples: 4071
+Train batches: 957
+Val batches: 204
+Batch size: 20
+Num workers: 4
+Train samples: 19130
+Val samples: 4071
+Train batches: 957
+Val batches: 204
+Batch size: 20
+Num workers: 4
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+====================================
+START TRAINING
+start_epoch: 61
+max_epoch: 400
+log_dir: output
+checkpoint_path: output/checkpoint.tar
+====================================
+**** EPOCH 061 / 399 ****
+2026-03-11 13:19:03.783277
+[TRAIN] Epoch 061 started | lr=0.00041578
