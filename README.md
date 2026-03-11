@@ -4,6 +4,18 @@
 
 > [Source de l'image](https://github.com/PRBonn/semantic-kitti-api)
 
+## Présentation
+
+Ce projet est dédié à la segmentation sémantique 3D de nuages de points LiDAR à grande échelle, en utilisant principalement le dataset SemanticKITTI. L'objectif est d'assigner une classe sémantique (véhicule, piéton, route, etc.) à chaque point individuel d'un scan LiDAR.
+
+Le dépôt regroupe plusieurs architectures de pointe pour comparer leurs performances et leur efficacité : PointNet, RandLA-Net, Cylinder3D et la suite de modèles via Pointcept.
+
+## Contributeurs
+
+| [Eliott](https://github.com/Eliott133) | [Josué](https://github.com/JosueAhobade) | [Raphael](https://github.com/Rapha76) |
+| --- | --- | --- |
+
+
 ## Dataset
 
 ### Overview
@@ -87,6 +99,13 @@ L'ensemble de données contient 28 classes, dont certaines distinguent les objet
 
 > [Source de l'image](https://semantic-kitti.org/dataset.html)
 
+`configs/semantic-kitti.yaml` définit la manière dont les données du dataset SemanticKITTI sont interprétées, traitées et évaluées. On y retrouve :
+- Définition des labels
+- Carte des couleurs
+- Statistiques de contenu
+- Mapping d'apprentissage
+- Mapping inverse et ignorés
+
 ### Development Kit (DevKit)
 Un kit de développement officiel (API) est proposé pour faciliter la manipulation de ce dataset. Ce DevKit inclut divers outils et scripts permettant de :
 
@@ -111,3 +130,40 @@ Le dataset KITTI original (nuages de points) est sous licence [Creative Commons 
 Les annotations SemanticKITTI sont sous licence [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **Ces données sont fournies uniquement pour un usage académique et de recherche non commerciale.**
+
+## Installation
+
+Le projet utilise ``uv`` pour la gestion des dépendances et de l'environnement Python.
+
+**Prérequis :**
+
+- CUDA Toolkit (compatible avec PyTorch)
+- [uv | astral (uv 0.9.30)](https://docs.astral.sh/uv/getting-started/installation/)
+- Vous disposez des GPU de la famille RTX (RTX 2080, RTX 6000, RTX 8000)
+`
+
+1) Cloner le projet sur le cluster de l'université du mans
+
+```bash
+git clone https://github.com/Eliott133/lidar-point-cloud-segmentation.git
+```
+
+2) Vérifier que uv est installer 
+
+```bash
+uv --version
+```
+
+3) Vous pouvez lancer l'entrainement des modèles en lancant les scripts :
+
+```bash
+sbatch submit_cylinder3d.sh # Pour lancer l'entrainement du modèle Cylinder3D
+sbatch submit_pointcept.sh # Pour lancer l'entrainement du modèle PointCept
+sbatch submit_pointnet.sh # # Pour lancer l'entrainement du modèle PointNet
+sbatch submit_randla_net.sh # # Pour lancer l'entrainement du modèle RandLa-Net
+```
+
+Ces scripts lancent un job sur la machine gpue06 et crée l'environnement adéquat directement.
+
+Vous pouvez configurer les modèles dans le dossier `configs` située à la racine
+
