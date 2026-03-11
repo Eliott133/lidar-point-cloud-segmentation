@@ -9,7 +9,7 @@
 #SBATCH --mem=64G
 #SBATCH --time=48:00:00
 #SBATCH --partition=gpu
-#SBATCH --nodelist=gpue06
+#SBATCH --nodelist=gpue07
 
 set -e
 
@@ -19,7 +19,7 @@ echo "SLURM_JOB_ID: $SLURM_JOB_ID"
 echo "Date: $(date)"
 echo "===================================="
 
-REPO_DIR=./RandLA-Net-pytorch
+REPO_DIR=./RandLA-Net
 
 cd "$REPO_DIR"
 
@@ -45,7 +45,7 @@ echo "===================================="
 echo "STEP 2: START TRAINING"
 echo "===================================="
 
-uv run python main_SemanticKITTI.py --log_dir logs --max_epoch 150 --batch_size 2
+uv run python main_SemanticKITTI.py --config ../configs/config_randlanet.yaml
 echo "===================================="
 echo "TRAINING FINISHED"
 echo "===================================="

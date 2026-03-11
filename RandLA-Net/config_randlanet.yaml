@@ -1,0 +1,6 @@
+yaml_config: "../RandLA-Net-Pytorch/utils/semantic-kitti.yaml"
+checkpoint_path: ""
+log_dir: "../logs"
+max_epoch: 150
+batch_size: 2
+num_workers: 4
