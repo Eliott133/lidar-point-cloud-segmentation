@@ -82,19 +82,7 @@ Ce projet utilise **uv** pour gérer l’environnement Python.
 Depuis le dossier du projet :
 
 ```bash
-cd RandLA-Net-pytorch
-uv venv --python 3.9
-
-source .venv/bin/activate
-
 uv sync
-
-#Installation de torch
-
-uv pip install \
-torch==2.6.0+cu124 \
-torchvision==0.21.0+cu124 \
---index-url https://download.pytorch.org/whl/cu124
 
 #Compilation des opérations C++
 
