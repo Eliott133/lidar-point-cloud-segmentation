@@ -35,3 +35,8 @@ dev = [
     "streamlit>=1.40.1",
     "typer>=0.20.1",
 ]
+
+[tool.uv.workspace]
+members = [
+    "RandLA-Net-pytorch",
+]

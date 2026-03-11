@@ -12,11 +12,14 @@
 
 module purge
 
-# 1. On se place à la RACINE du projet Pointcept (CORRIGÉ)
-cd /info/raid-etu/m2/s2400752/ProjetAlternance/Pointcept
+cd $SLURM_SUBMIT_DIR
 
-# 2. On active l'environnement Python (Ton chemin est parfait)
-source /info/etu/m2/s2400752/miniconda3/bin/activate pointcept
+source .venv/bin/activate
+export PYTHONPATH=$SLURM_SUBMIT_DIR:$PYTHONPATH
+
+export CUDA_HOME=/opt/cuda/12.4
+export PATH=$CUDA_HOME/bin:$PATH
+export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH
 
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
@@ -27,7 +30,6 @@ echo "GPU alloué :"
 nvidia-smi
 echo "=========================================================="
 
-# 3. Lancement via le script officiel de Pointcept (CORRIGÉ)
 # -p : trouve automatiquement ton python conda
 # -g : 1 GPU
 # -d : dataset semantic_kitti
