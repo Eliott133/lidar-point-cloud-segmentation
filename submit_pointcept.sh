@@ -13,7 +13,7 @@
 
 cd $SLURM_SUBMIT_DIR
 
-cd ./Pointcept_github
+cd ./Pointcept
 
 module purge
 module load cuda
@@ -26,4 +26,4 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export PYTHONPATH=$PWD:$PYTHONPATH
 
 nvidia-smi
-uv run sh scripts/train.sh -p python -g 1 -d semantic_kitti -c ../configs/config_pointcept.yaml -n run_ptv2_kitti
+uv run python tools/train.py --config-file ../configs/semseg-pt-v2m2-0-base.py --options save_path=exp/semantic_kitti/run_ptv2_kitti
