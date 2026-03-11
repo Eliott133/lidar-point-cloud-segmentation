@@ -34,13 +34,4 @@ dev = [
     "ruff>=0.15.5",
     "streamlit>=1.40.1",
     "typer>=0.20.1",
-<<<<<<< HEAD
 ]
-=======
-]
-
-[tool.uv.workspace]
-members = [
-    "RandLA-Net-pytorch",
-]
->>>>>>> d17a586e94471ee42f7b9ca874afff8d1a521d49
