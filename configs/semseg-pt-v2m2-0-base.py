@@ -1,4 +1,4 @@
-_base_ = ["../Pointcept_github/configs/_base_/default_runtime.py"]
+_base_ = ["../Pointcept/configs/_base_/default_runtime.py"]
 
 # misc custom setting
 batch_size = 2  # bs: total bs in all gpus
