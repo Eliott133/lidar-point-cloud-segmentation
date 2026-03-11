@@ -319,3 +319,1314 @@ checkpoint_path:
 [TRAIN] Epoch 000 | batch 0040/9565 (  0.4%) | 0.194s/batch
 [TRAIN] mean acc: 0.244787
 [TRAIN] mean loss: 16.932368
+[TRAIN] Epoch 000 | batch 0050/9565 (  0.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.277190
+[TRAIN] mean loss: 14.880193
+[TRAIN] Epoch 000 | batch 0060/9565 (  0.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.319888
+[TRAIN] mean loss: 14.590121
+[TRAIN] Epoch 000 | batch 0070/9565 (  0.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.354238
+[TRAIN] mean loss: 14.749100
+[TRAIN] Epoch 000 | batch 0080/9565 (  0.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.340302
+[TRAIN] mean loss: 15.947477
+[TRAIN] Epoch 000 | batch 0090/9565 (  0.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.361533
+[TRAIN] mean loss: 16.441382
+[TRAIN] Epoch 000 | batch 0100/9565 (  1.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.315604
+[TRAIN] mean loss: 17.699673
+[TRAIN] Epoch 000 | batch 0110/9565 (  1.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.345674
+[TRAIN] mean loss: 13.732510
+[TRAIN] Epoch 000 | batch 0120/9565 (  1.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.340880
+[TRAIN] mean loss: 14.599959
+[TRAIN] Epoch 000 | batch 0130/9565 (  1.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.402666
+[TRAIN] mean loss: 14.193744
+[TRAIN] Epoch 000 | batch 0140/9565 (  1.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.411975
+[TRAIN] mean loss: 13.334345
+[TRAIN] Epoch 000 | batch 0150/9565 (  1.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.399692
+[TRAIN] mean loss: 15.843231
+[TRAIN] Epoch 000 | batch 0160/9565 (  1.7%) | 0.197s/batch
+[TRAIN] mean acc: 0.347670
+[TRAIN] mean loss: 13.420683
+[TRAIN] Epoch 000 | batch 0170/9565 (  1.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.412447
+[TRAIN] mean loss: 14.594952
+[TRAIN] Epoch 000 | batch 0180/9565 (  1.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.421846
+[TRAIN] mean loss: 11.766226
+[TRAIN] Epoch 000 | batch 0190/9565 (  2.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.430877
+[TRAIN] mean loss: 12.762467
+[TRAIN] Epoch 000 | batch 0200/9565 (  2.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.402674
+[TRAIN] mean loss: 12.194674
+[TRAIN] Epoch 000 | batch 0210/9565 (  2.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.435845
+[TRAIN] mean loss: 12.067215
+[TRAIN] Epoch 000 | batch 0220/9565 (  2.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.430061
+[TRAIN] mean loss: 13.739035
+[TRAIN] Epoch 000 | batch 0230/9565 (  2.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.395211
+[TRAIN] mean loss: 14.077044
+[TRAIN] Epoch 000 | batch 0240/9565 (  2.5%) | 0.197s/batch
+[TRAIN] mean acc: 0.434631
+[TRAIN] mean loss: 12.717979
+[TRAIN] Epoch 000 | batch 0250/9565 (  2.6%) | 0.193s/batch
+[TRAIN] mean acc: 0.404319
+[TRAIN] mean loss: 11.641771
+[TRAIN] Epoch 000 | batch 0260/9565 (  2.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.434150
+[TRAIN] mean loss: 12.509885
+[TRAIN] Epoch 000 | batch 0270/9565 (  2.8%) | 0.197s/batch
+[TRAIN] mean acc: 0.406118
+[TRAIN] mean loss: 12.420328
+[TRAIN] Epoch 000 | batch 0280/9565 (  2.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.435767
+[TRAIN] mean loss: 11.981106
+[TRAIN] Epoch 000 | batch 0290/9565 (  3.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.417700
+[TRAIN] mean loss: 11.522375
+[TRAIN] Epoch 000 | batch 0300/9565 (  3.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.455011
+[TRAIN] mean loss: 10.339512
+[TRAIN] Epoch 000 | batch 0310/9565 (  3.2%) | 0.197s/batch
+[TRAIN] mean acc: 0.480677
+[TRAIN] mean loss: 12.296354
+[TRAIN] Epoch 000 | batch 0320/9565 (  3.3%) | 0.198s/batch
+[TRAIN] mean acc: 0.474301
+[TRAIN] mean loss: 13.334273
+[TRAIN] Epoch 000 | batch 0330/9565 (  3.5%) | 0.198s/batch
+[TRAIN] mean acc: 0.388425
+[TRAIN] mean loss: 12.745271
+[TRAIN] Epoch 000 | batch 0340/9565 (  3.6%) | 0.199s/batch
+[TRAIN] mean acc: 0.407882
+[TRAIN] mean loss: 12.248283
+[TRAIN] Epoch 000 | batch 0350/9565 (  3.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.448811
+[TRAIN] mean loss: 12.970728
+[TRAIN] Epoch 000 | batch 0360/9565 (  3.8%) | 0.198s/batch
+[TRAIN] mean acc: 0.450379
+[TRAIN] mean loss: 10.227483
+[TRAIN] Epoch 000 | batch 0370/9565 (  3.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.475148
+[TRAIN] mean loss: 11.791016
+[TRAIN] Epoch 000 | batch 0380/9565 (  4.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.415907
+[TRAIN] mean loss: 11.447554
+[TRAIN] Epoch 000 | batch 0390/9565 (  4.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.435237
+[TRAIN] mean loss: 10.631076
+[TRAIN] Epoch 000 | batch 0400/9565 (  4.2%) | 0.193s/batch
+[TRAIN] mean acc: 0.458657
+[TRAIN] mean loss: 12.248632
+[TRAIN] Epoch 000 | batch 0410/9565 (  4.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.431169
+[TRAIN] mean loss: 12.558777
+[TRAIN] Epoch 000 | batch 0420/9565 (  4.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.509342
+[TRAIN] mean loss: 13.530157
+[TRAIN] Epoch 000 | batch 0430/9565 (  4.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.409000
+[TRAIN] mean loss: 13.268332
+[TRAIN] Epoch 000 | batch 0440/9565 (  4.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.426213
+[TRAIN] mean loss: 10.602183
+[TRAIN] Epoch 000 | batch 0450/9565 (  4.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.459038
+[TRAIN] mean loss: 13.138848
+[TRAIN] Epoch 000 | batch 0460/9565 (  4.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.451134
+[TRAIN] mean loss: 11.005943
+[TRAIN] Epoch 000 | batch 0470/9565 (  4.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.431655
+[TRAIN] mean loss: 13.791426
+[TRAIN] Epoch 000 | batch 0480/9565 (  5.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.503944
+[TRAIN] mean loss: 11.715949
+[TRAIN] Epoch 000 | batch 0490/9565 (  5.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.453067
+[TRAIN] mean loss: 11.809718
+[TRAIN] Epoch 000 | batch 0500/9565 (  5.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.496609
+[TRAIN] mean loss: 11.068486
+[TRAIN] Epoch 000 | batch 0510/9565 (  5.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.431062
+[TRAIN] mean loss: 11.479696
+[TRAIN] Epoch 000 | batch 0520/9565 (  5.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.400335
+[TRAIN] mean loss: 12.904510
+[TRAIN] Epoch 000 | batch 0530/9565 (  5.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.477130
+[TRAIN] mean loss: 10.778753
+[TRAIN] Epoch 000 | batch 0540/9565 (  5.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.513563
+[TRAIN] mean loss: 10.930792
+[TRAIN] Epoch 000 | batch 0550/9565 (  5.8%) | 0.193s/batch
+[TRAIN] mean acc: 0.494969
+[TRAIN] mean loss: 10.341500
+[TRAIN] Epoch 000 | batch 0560/9565 (  5.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.487882
+[TRAIN] mean loss: 11.966406
+[TRAIN] Epoch 000 | batch 0570/9565 (  6.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.525160
+[TRAIN] mean loss: 11.703973
+[TRAIN] Epoch 000 | batch 0580/9565 (  6.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.514569
+[TRAIN] mean loss: 10.383135
+[TRAIN] Epoch 000 | batch 0590/9565 (  6.2%) | 0.197s/batch
+[TRAIN] mean acc: 0.561330
+[TRAIN] mean loss: 9.791503
+[TRAIN] Epoch 000 | batch 0600/9565 (  6.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.551269
+[TRAIN] mean loss: 10.218018
+[TRAIN] Epoch 000 | batch 0610/9565 (  6.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.480378
+[TRAIN] mean loss: 12.254942
+[TRAIN] Epoch 000 | batch 0620/9565 (  6.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.500096
+[TRAIN] mean loss: 12.893621
+[TRAIN] Epoch 000 | batch 0630/9565 (  6.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.508359
+[TRAIN] mean loss: 11.329646
+[TRAIN] Epoch 000 | batch 0640/9565 (  6.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.496132
+[TRAIN] mean loss: 11.093494
+[TRAIN] Epoch 000 | batch 0650/9565 (  6.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.425922
+[TRAIN] mean loss: 9.865319
+[TRAIN] Epoch 000 | batch 0660/9565 (  6.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.504664
+[TRAIN] mean loss: 10.091481
+[TRAIN] Epoch 000 | batch 0670/9565 (  7.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.535166
+[TRAIN] mean loss: 11.331589
+[TRAIN] Epoch 000 | batch 0680/9565 (  7.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.492701
+[TRAIN] mean loss: 11.447598
+[TRAIN] Epoch 000 | batch 0690/9565 (  7.2%) | 0.198s/batch
+[TRAIN] mean acc: 0.440599
+[TRAIN] mean loss: 10.103275
+[TRAIN] Epoch 000 | batch 0700/9565 (  7.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.514391
+[TRAIN] mean loss: 10.345553
+[TRAIN] Epoch 000 | batch 0710/9565 (  7.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.539840
+[TRAIN] mean loss: 10.988432
+[TRAIN] Epoch 000 | batch 0720/9565 (  7.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.540060
+[TRAIN] mean loss: 9.585370
+[TRAIN] Epoch 000 | batch 0730/9565 (  7.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.553005
+[TRAIN] mean loss: 8.823725
+[TRAIN] Epoch 000 | batch 0740/9565 (  7.7%) | 0.197s/batch
+[TRAIN] mean acc: 0.527766
+[TRAIN] mean loss: 11.475613
+[TRAIN] Epoch 000 | batch 0750/9565 (  7.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.495042
+[TRAIN] mean loss: 12.875514
+[TRAIN] Epoch 000 | batch 0760/9565 (  7.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.538958
+[TRAIN] mean loss: 10.268189
+[TRAIN] Epoch 000 | batch 0770/9565 (  8.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.549676
+[TRAIN] mean loss: 8.547127
+[TRAIN] Epoch 000 | batch 0780/9565 (  8.2%) | 0.194s/batch
+[TRAIN] mean acc: 0.515738
+[TRAIN] mean loss: 11.849497
+[TRAIN] Epoch 000 | batch 0790/9565 (  8.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.529913
+[TRAIN] mean loss: 11.338023
+[TRAIN] Epoch 000 | batch 0800/9565 (  8.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.521787
+[TRAIN] mean loss: 10.835180
+[TRAIN] Epoch 000 | batch 0810/9565 (  8.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.534729
+[TRAIN] mean loss: 10.540565
+[TRAIN] Epoch 000 | batch 0820/9565 (  8.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.541481
+[TRAIN] mean loss: 9.293103
+[TRAIN] Epoch 000 | batch 0830/9565 (  8.7%) | 0.193s/batch
+[TRAIN] mean acc: 0.529249
+[TRAIN] mean loss: 8.452155
+[TRAIN] Epoch 000 | batch 0840/9565 (  8.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.564516
+[TRAIN] mean loss: 10.962382
+[TRAIN] Epoch 000 | batch 0850/9565 (  8.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.564527
+[TRAIN] mean loss: 10.876812
+[TRAIN] Epoch 000 | batch 0860/9565 (  9.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.536042
+[TRAIN] mean loss: 10.853282
+[TRAIN] Epoch 000 | batch 0870/9565 (  9.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.494609
+[TRAIN] mean loss: 9.593575
+[TRAIN] Epoch 000 | batch 0880/9565 (  9.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.577143
+[TRAIN] mean loss: 8.502589
+[TRAIN] Epoch 000 | batch 0890/9565 (  9.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.531115
+[TRAIN] mean loss: 11.752791
+[TRAIN] Epoch 000 | batch 0900/9565 (  9.4%) | 0.193s/batch
+[TRAIN] mean acc: 0.493243
+[TRAIN] mean loss: 10.528322
+[TRAIN] Epoch 000 | batch 0910/9565 (  9.5%) | 0.197s/batch
+[TRAIN] mean acc: 0.526102
+[TRAIN] mean loss: 11.740756
+[TRAIN] Epoch 000 | batch 0920/9565 (  9.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.494429
+[TRAIN] mean loss: 10.635137
+[TRAIN] Epoch 000 | batch 0930/9565 (  9.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.505178
+[TRAIN] mean loss: 11.048446
+[TRAIN] Epoch 000 | batch 0940/9565 (  9.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.592997
+[TRAIN] mean loss: 9.576378
+[TRAIN] Epoch 000 | batch 0950/9565 (  9.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.517696
+[TRAIN] mean loss: 10.866539
+[TRAIN] Epoch 000 | batch 0960/9565 ( 10.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.501793
+[TRAIN] mean loss: 12.378716
+[TRAIN] Epoch 000 | batch 0970/9565 ( 10.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.497328
+[TRAIN] mean loss: 12.035882
+[TRAIN] Epoch 000 | batch 0980/9565 ( 10.2%) | 0.194s/batch
+[TRAIN] mean acc: 0.493323
+[TRAIN] mean loss: 10.144644
+[TRAIN] Epoch 000 | batch 0990/9565 ( 10.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.479363
+[TRAIN] mean loss: 9.332577
+[TRAIN] Epoch 000 | batch 1000/9565 ( 10.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.523659
+[TRAIN] mean loss: 10.383982
+[TRAIN] Epoch 000 | batch 1010/9565 ( 10.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.557752
+[TRAIN] mean loss: 8.697383
+[TRAIN] Epoch 000 | batch 1020/9565 ( 10.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.523895
+[TRAIN] mean loss: 14.713646
+[TRAIN] Epoch 000 | batch 1030/9565 ( 10.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.544624
+[TRAIN] mean loss: 10.012312
+[TRAIN] Epoch 000 | batch 1040/9565 ( 10.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.584933
+[TRAIN] mean loss: 11.344045
+[TRAIN] Epoch 000 | batch 1050/9565 ( 11.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.543988
+[TRAIN] mean loss: 11.007291
+[TRAIN] Epoch 000 | batch 1060/9565 ( 11.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.520521
+[TRAIN] mean loss: 8.759634
+[TRAIN] Epoch 000 | batch 1070/9565 ( 11.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.534825
+[TRAIN] mean loss: 11.966057
+[TRAIN] Epoch 000 | batch 1080/9565 ( 11.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.604823
+[TRAIN] mean loss: 9.422598
+[TRAIN] Epoch 000 | batch 1090/9565 ( 11.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.561038
+[TRAIN] mean loss: 7.936549
+[TRAIN] Epoch 000 | batch 1100/9565 ( 11.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.575250
+[TRAIN] mean loss: 8.947919
+[TRAIN] Epoch 000 | batch 1110/9565 ( 11.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.590154
+[TRAIN] mean loss: 12.649502
+[TRAIN] Epoch 000 | batch 1120/9565 ( 11.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.499857
+[TRAIN] mean loss: 11.889541
+[TRAIN] Epoch 000 | batch 1130/9565 ( 11.8%) | 0.198s/batch
+[TRAIN] mean acc: 0.484112
+[TRAIN] mean loss: 10.924372
+[TRAIN] Epoch 000 | batch 1140/9565 ( 11.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.550089
+[TRAIN] mean loss: 10.002949
+[TRAIN] Epoch 000 | batch 1150/9565 ( 12.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.554505
+[TRAIN] mean loss: 9.062442
+[TRAIN] Epoch 000 | batch 1160/9565 ( 12.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.555444
+[TRAIN] mean loss: 12.268795
+[TRAIN] Epoch 000 | batch 1170/9565 ( 12.2%) | 0.194s/batch
+[TRAIN] mean acc: 0.524607
+[TRAIN] mean loss: 10.816150
+[TRAIN] Epoch 000 | batch 1180/9565 ( 12.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.585631
+[TRAIN] mean loss: 8.908715
+[TRAIN] Epoch 000 | batch 1190/9565 ( 12.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.562054
+[TRAIN] mean loss: 9.385411
+[TRAIN] Epoch 000 | batch 1200/9565 ( 12.5%) | 0.199s/batch
+[TRAIN] mean acc: 0.536326
+[TRAIN] mean loss: 10.524811
+[TRAIN] Epoch 000 | batch 1210/9565 ( 12.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.541740
+[TRAIN] mean loss: 12.327107
+[TRAIN] Epoch 000 | batch 1220/9565 ( 12.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.518110
+[TRAIN] mean loss: 11.639054
+[TRAIN] Epoch 000 | batch 1230/9565 ( 12.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.536695
+[TRAIN] mean loss: 9.779764
+[TRAIN] Epoch 000 | batch 1240/9565 ( 13.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.554262
+[TRAIN] mean loss: 9.744913
+[TRAIN] Epoch 000 | batch 1250/9565 ( 13.1%) | 0.198s/batch
+[TRAIN] mean acc: 0.535723
+[TRAIN] mean loss: 10.779787
+[TRAIN] Epoch 000 | batch 1260/9565 ( 13.2%) | 0.193s/batch
+[TRAIN] mean acc: 0.584998
+[TRAIN] mean loss: 8.470437
+[TRAIN] Epoch 000 | batch 1270/9565 ( 13.3%) | 0.198s/batch
+[TRAIN] mean acc: 0.530320
+[TRAIN] mean loss: 12.267483
+[TRAIN] Epoch 000 | batch 1280/9565 ( 13.4%) | 0.198s/batch
+[TRAIN] mean acc: 0.578403
+[TRAIN] mean loss: 8.679467
+[TRAIN] Epoch 000 | batch 1290/9565 ( 13.5%) | 0.198s/batch
+[TRAIN] mean acc: 0.583271
+[TRAIN] mean loss: 9.254386
+[TRAIN] Epoch 000 | batch 1300/9565 ( 13.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.593288
+[TRAIN] mean loss: 8.380025
+[TRAIN] Epoch 000 | batch 1310/9565 ( 13.7%) | 0.199s/batch
+[TRAIN] mean acc: 0.573888
+[TRAIN] mean loss: 8.195426
+[TRAIN] Epoch 000 | batch 1320/9565 ( 13.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.561675
+[TRAIN] mean loss: 8.897782
+[TRAIN] Epoch 000 | batch 1330/9565 ( 13.9%) | 0.199s/batch
+[TRAIN] mean acc: 0.578247
+[TRAIN] mean loss: 9.012437
+[TRAIN] Epoch 000 | batch 1340/9565 ( 14.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.595252
+[TRAIN] mean loss: 7.901171
+[TRAIN] Epoch 000 | batch 1350/9565 ( 14.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.638335
+[TRAIN] mean loss: 7.832569
+[TRAIN] Epoch 000 | batch 1360/9565 ( 14.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.619205
+[TRAIN] mean loss: 8.108398
+[TRAIN] Epoch 000 | batch 1370/9565 ( 14.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.564339
+[TRAIN] mean loss: 9.758864
+[TRAIN] Epoch 000 | batch 1380/9565 ( 14.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.593478
+[TRAIN] mean loss: 9.596059
+[TRAIN] Epoch 000 | batch 1390/9565 ( 14.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.590066
+[TRAIN] mean loss: 10.233724
+[TRAIN] Epoch 000 | batch 1400/9565 ( 14.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.625532
+[TRAIN] mean loss: 9.460964
+[TRAIN] Epoch 000 | batch 1410/9565 ( 14.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.523548
+[TRAIN] mean loss: 13.987612
+[TRAIN] Epoch 000 | batch 1420/9565 ( 14.8%) | 0.198s/batch
+[TRAIN] mean acc: 0.534866
+[TRAIN] mean loss: 9.621681
+[TRAIN] Epoch 000 | batch 1430/9565 ( 15.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.623813
+[TRAIN] mean loss: 7.948147
+[TRAIN] Epoch 000 | batch 1440/9565 ( 15.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.595543
+[TRAIN] mean loss: 9.000869
+[TRAIN] Epoch 000 | batch 1450/9565 ( 15.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.500756
+[TRAIN] mean loss: 10.207790
+[TRAIN] Epoch 000 | batch 1460/9565 ( 15.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.617374
+[TRAIN] mean loss: 8.538173
+[TRAIN] Epoch 000 | batch 1470/9565 ( 15.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.565302
+[TRAIN] mean loss: 8.176754
+[TRAIN] Epoch 000 | batch 1480/9565 ( 15.5%) | 0.197s/batch
+[TRAIN] mean acc: 0.646088
+[TRAIN] mean loss: 7.547419
+[TRAIN] Epoch 000 | batch 1490/9565 ( 15.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.603883
+[TRAIN] mean loss: 9.208693
+[TRAIN] Epoch 000 | batch 1500/9565 ( 15.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.574418
+[TRAIN] mean loss: 10.116785
+[TRAIN] Epoch 000 | batch 1510/9565 ( 15.8%) | 0.198s/batch
+[TRAIN] mean acc: 0.576520
+[TRAIN] mean loss: 10.966070
+[TRAIN] Epoch 000 | batch 1520/9565 ( 15.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.555493
+[TRAIN] mean loss: 10.588175
+[TRAIN] Epoch 000 | batch 1530/9565 ( 16.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.564811
+[TRAIN] mean loss: 9.126233
+[TRAIN] Epoch 000 | batch 1540/9565 ( 16.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.562329
+[TRAIN] mean loss: 10.047365
+[TRAIN] Epoch 000 | batch 1550/9565 ( 16.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.644906
+[TRAIN] mean loss: 9.367578
+[TRAIN] Epoch 000 | batch 1560/9565 ( 16.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.612759
+[TRAIN] mean loss: 7.675565
+[TRAIN] Epoch 000 | batch 1570/9565 ( 16.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.643498
+[TRAIN] mean loss: 7.789043
+[TRAIN] Epoch 000 | batch 1580/9565 ( 16.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.618779
+[TRAIN] mean loss: 8.112310
+[TRAIN] Epoch 000 | batch 1590/9565 ( 16.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.620495
+[TRAIN] mean loss: 7.465162
+[TRAIN] Epoch 000 | batch 1600/9565 ( 16.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.619298
+[TRAIN] mean loss: 8.546482
+[TRAIN] Epoch 000 | batch 1610/9565 ( 16.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.593171
+[TRAIN] mean loss: 9.397209
+[TRAIN] Epoch 000 | batch 1620/9565 ( 16.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.582487
+[TRAIN] mean loss: 10.342551
+[TRAIN] Epoch 000 | batch 1630/9565 ( 17.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.577236
+[TRAIN] mean loss: 8.985868
+[TRAIN] Epoch 000 | batch 1640/9565 ( 17.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.561990
+[TRAIN] mean loss: 9.317723
+[TRAIN] Epoch 000 | batch 1650/9565 ( 17.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.617355
+[TRAIN] mean loss: 8.837226
+[TRAIN] Epoch 000 | batch 1660/9565 ( 17.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.543503
+[TRAIN] mean loss: 9.240774
+[TRAIN] Epoch 000 | batch 1670/9565 ( 17.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.601953
+[TRAIN] mean loss: 11.257588
+[TRAIN] Epoch 000 | batch 1680/9565 ( 17.6%) | 0.193s/batch
+[TRAIN] mean acc: 0.606125
+[TRAIN] mean loss: 8.768683
+[TRAIN] Epoch 000 | batch 1690/9565 ( 17.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.640782
+[TRAIN] mean loss: 8.734606
+[TRAIN] Epoch 000 | batch 1700/9565 ( 17.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.580520
+[TRAIN] mean loss: 11.232233
+[TRAIN] Epoch 000 | batch 1710/9565 ( 17.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.611072
+[TRAIN] mean loss: 9.375085
+[TRAIN] Epoch 000 | batch 1720/9565 ( 18.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.606391
+[TRAIN] mean loss: 9.567892
+[TRAIN] Epoch 000 | batch 1730/9565 ( 18.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.597991
+[TRAIN] mean loss: 8.520306
+[TRAIN] Epoch 000 | batch 1740/9565 ( 18.2%) | 0.199s/batch
+[TRAIN] mean acc: 0.579438
+[TRAIN] mean loss: 9.005738
+[TRAIN] Epoch 000 | batch 1750/9565 ( 18.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.560186
+[TRAIN] mean loss: 8.902965
+[TRAIN] Epoch 000 | batch 1760/9565 ( 18.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.598543
+[TRAIN] mean loss: 8.765806
+[TRAIN] Epoch 000 | batch 1770/9565 ( 18.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.597223
+[TRAIN] mean loss: 9.493898
+[TRAIN] Epoch 000 | batch 1780/9565 ( 18.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.627793
+[TRAIN] mean loss: 8.601335
+[TRAIN] Epoch 000 | batch 1790/9565 ( 18.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.614101
+[TRAIN] mean loss: 9.614339
+[TRAIN] Epoch 000 | batch 1800/9565 ( 18.8%) | 0.197s/batch
+[TRAIN] mean acc: 0.624338
+[TRAIN] mean loss: 8.541715
+[TRAIN] Epoch 000 | batch 1810/9565 ( 18.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.612183
+[TRAIN] mean loss: 8.069647
+[TRAIN] Epoch 000 | batch 1820/9565 ( 19.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.602591
+[TRAIN] mean loss: 8.544958
+[TRAIN] Epoch 000 | batch 1830/9565 ( 19.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.601351
+[TRAIN] mean loss: 9.509895
+[TRAIN] Epoch 000 | batch 1840/9565 ( 19.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.614817
+[TRAIN] mean loss: 9.415937
+[TRAIN] Epoch 000 | batch 1850/9565 ( 19.3%) | 0.197s/batch
+[TRAIN] mean acc: 0.600763
+[TRAIN] mean loss: 7.818897
+[TRAIN] Epoch 000 | batch 1860/9565 ( 19.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.614359
+[TRAIN] mean loss: 11.086708
+[TRAIN] Epoch 000 | batch 1870/9565 ( 19.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.608951
+[TRAIN] mean loss: 8.496508
+[TRAIN] Epoch 000 | batch 1880/9565 ( 19.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.595591
+[TRAIN] mean loss: 11.039173
+[TRAIN] Epoch 000 | batch 1890/9565 ( 19.8%) | 0.197s/batch
+[TRAIN] mean acc: 0.609158
+[TRAIN] mean loss: 8.017698
+[TRAIN] Epoch 000 | batch 1900/9565 ( 19.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.625152
+[TRAIN] mean loss: 9.030114
+[TRAIN] Epoch 000 | batch 1910/9565 ( 20.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.625325
+[TRAIN] mean loss: 9.027244
+[TRAIN] Epoch 000 | batch 1920/9565 ( 20.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.634147
+[TRAIN] mean loss: 9.630630
+[TRAIN] Epoch 000 | batch 1930/9565 ( 20.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.626779
+[TRAIN] mean loss: 9.313339
+[TRAIN] Epoch 000 | batch 1940/9565 ( 20.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.606386
+[TRAIN] mean loss: 9.620285
+[TRAIN] Epoch 000 | batch 1950/9565 ( 20.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.611144
+[TRAIN] mean loss: 9.676486
+[TRAIN] Epoch 000 | batch 1960/9565 ( 20.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.649032
+[TRAIN] mean loss: 8.083855
+[TRAIN] Epoch 000 | batch 1970/9565 ( 20.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.595116
+[TRAIN] mean loss: 9.449714
+[TRAIN] Epoch 000 | batch 1980/9565 ( 20.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.621895
+[TRAIN] mean loss: 9.828050
+[TRAIN] Epoch 000 | batch 1990/9565 ( 20.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.610866
+[TRAIN] mean loss: 8.622882
+[TRAIN] Epoch 000 | batch 2000/9565 ( 20.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.599439
+[TRAIN] mean loss: 10.436053
+[TRAIN] Epoch 000 | batch 2010/9565 ( 21.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.564840
+[TRAIN] mean loss: 9.418269
+[TRAIN] Epoch 000 | batch 2020/9565 ( 21.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.640048
+[TRAIN] mean loss: 8.084269
+[TRAIN] Epoch 000 | batch 2030/9565 ( 21.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.629524
+[TRAIN] mean loss: 7.739327
+[TRAIN] Epoch 000 | batch 2040/9565 ( 21.3%) | 0.193s/batch
+[TRAIN] mean acc: 0.612971
+[TRAIN] mean loss: 8.751147
+[TRAIN] Epoch 000 | batch 2050/9565 ( 21.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.644573
+[TRAIN] mean loss: 9.421464
+[TRAIN] Epoch 000 | batch 2060/9565 ( 21.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.558063
+[TRAIN] mean loss: 8.926297
+[TRAIN] Epoch 000 | batch 2070/9565 ( 21.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.591219
+[TRAIN] mean loss: 9.414123
+[TRAIN] Epoch 000 | batch 2080/9565 ( 21.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.595313
+[TRAIN] mean loss: 8.328821
+[TRAIN] Epoch 000 | batch 2090/9565 ( 21.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.690273
+[TRAIN] mean loss: 8.069649
+[TRAIN] Epoch 000 | batch 2100/9565 ( 22.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.609053
+[TRAIN] mean loss: 8.415484
+[TRAIN] Epoch 000 | batch 2110/9565 ( 22.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.676142
+[TRAIN] mean loss: 10.362609
+[TRAIN] Epoch 000 | batch 2120/9565 ( 22.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.632925
+[TRAIN] mean loss: 8.927834
+[TRAIN] Epoch 000 | batch 2130/9565 ( 22.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.575501
+[TRAIN] mean loss: 9.396136
+[TRAIN] Epoch 000 | batch 2140/9565 ( 22.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.625465
+[TRAIN] mean loss: 8.095329
+[TRAIN] Epoch 000 | batch 2150/9565 ( 22.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.655992
+[TRAIN] mean loss: 8.679781
+[TRAIN] Epoch 000 | batch 2160/9565 ( 22.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.627044
+[TRAIN] mean loss: 9.185184
+[TRAIN] Epoch 000 | batch 2170/9565 ( 22.7%) | 0.193s/batch
+[TRAIN] mean acc: 0.595928
+[TRAIN] mean loss: 10.666628
+[TRAIN] Epoch 000 | batch 2180/9565 ( 22.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.610083
+[TRAIN] mean loss: 7.607861
+[TRAIN] Epoch 000 | batch 2190/9565 ( 22.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.654277
+[TRAIN] mean loss: 8.900276
+[TRAIN] Epoch 000 | batch 2200/9565 ( 23.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.620905
+[TRAIN] mean loss: 9.854558
+[TRAIN] Epoch 000 | batch 2210/9565 ( 23.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.641031
+[TRAIN] mean loss: 7.553793
+[TRAIN] Epoch 000 | batch 2220/9565 ( 23.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.672584
+[TRAIN] mean loss: 7.957484
+[TRAIN] Epoch 000 | batch 2230/9565 ( 23.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.589405
+[TRAIN] mean loss: 7.765618
+[TRAIN] Epoch 000 | batch 2240/9565 ( 23.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.648768
+[TRAIN] mean loss: 8.835958
+[TRAIN] Epoch 000 | batch 2250/9565 ( 23.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.668970
+[TRAIN] mean loss: 7.943915
+[TRAIN] Epoch 000 | batch 2260/9565 ( 23.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.573104
+[TRAIN] mean loss: 8.305003
+[TRAIN] Epoch 000 | batch 2270/9565 ( 23.7%) | 0.200s/batch
+[TRAIN] mean acc: 0.596548
+[TRAIN] mean loss: 9.964952
+[TRAIN] Epoch 000 | batch 2280/9565 ( 23.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.651493
+[TRAIN] mean loss: 8.111598
+[TRAIN] Epoch 000 | batch 2290/9565 ( 23.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.632264
+[TRAIN] mean loss: 7.700930
+[TRAIN] Epoch 000 | batch 2300/9565 ( 24.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.634512
+[TRAIN] mean loss: 7.978264
+[TRAIN] Epoch 000 | batch 2310/9565 ( 24.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.652213
+[TRAIN] mean loss: 11.208039
+[TRAIN] Epoch 000 | batch 2320/9565 ( 24.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.640258
+[TRAIN] mean loss: 7.713849
+[TRAIN] Epoch 000 | batch 2330/9565 ( 24.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.628498
+[TRAIN] mean loss: 7.457620
+[TRAIN] Epoch 000 | batch 2340/9565 ( 24.5%) | 0.199s/batch
+[TRAIN] mean acc: 0.618847
+[TRAIN] mean loss: 8.785746
+[TRAIN] Epoch 000 | batch 2350/9565 ( 24.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.703759
+[TRAIN] mean loss: 6.884692
+[TRAIN] Epoch 000 | batch 2360/9565 ( 24.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.677695
+[TRAIN] mean loss: 7.573109
+[TRAIN] Epoch 000 | batch 2370/9565 ( 24.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.653232
+[TRAIN] mean loss: 8.479059
+[TRAIN] Epoch 000 | batch 2380/9565 ( 24.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.649052
+[TRAIN] mean loss: 11.360693
+[TRAIN] Epoch 000 | batch 2390/9565 ( 25.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.658458
+[TRAIN] mean loss: 8.694331
+[TRAIN] Epoch 000 | batch 2400/9565 ( 25.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.631144
+[TRAIN] mean loss: 8.681914
+[TRAIN] Epoch 000 | batch 2410/9565 ( 25.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.616592
+[TRAIN] mean loss: 8.326462
+[TRAIN] Epoch 000 | batch 2420/9565 ( 25.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.654020
+[TRAIN] mean loss: 7.659261
+[TRAIN] Epoch 000 | batch 2430/9565 ( 25.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.629178
+[TRAIN] mean loss: 9.777683
+[TRAIN] Epoch 000 | batch 2440/9565 ( 25.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.603769
+[TRAIN] mean loss: 10.606585
+[TRAIN] Epoch 000 | batch 2450/9565 ( 25.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.672201
+[TRAIN] mean loss: 6.512439
+[TRAIN] Epoch 000 | batch 2460/9565 ( 25.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.671565
+[TRAIN] mean loss: 7.453170
+[TRAIN] Epoch 000 | batch 2470/9565 ( 25.8%) | 0.198s/batch
+[TRAIN] mean acc: 0.654040
+[TRAIN] mean loss: 7.260680
+[TRAIN] Epoch 000 | batch 2480/9565 ( 25.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.694755
+[TRAIN] mean loss: 7.303346
+[TRAIN] Epoch 000 | batch 2490/9565 ( 26.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.657769
+[TRAIN] mean loss: 8.912755
+[TRAIN] Epoch 000 | batch 2500/9565 ( 26.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.679337
+[TRAIN] mean loss: 8.621579
+[TRAIN] Epoch 000 | batch 2510/9565 ( 26.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.650755
+[TRAIN] mean loss: 7.341165
+[TRAIN] Epoch 000 | batch 2520/9565 ( 26.3%) | 0.193s/batch
+[TRAIN] mean acc: 0.613420
+[TRAIN] mean loss: 7.516593
+[TRAIN] Epoch 000 | batch 2530/9565 ( 26.5%) | 0.198s/batch
+[TRAIN] mean acc: 0.628369
+[TRAIN] mean loss: 8.293410
+[TRAIN] Epoch 000 | batch 2540/9565 ( 26.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.637156
+[TRAIN] mean loss: 10.130759
+[TRAIN] Epoch 000 | batch 2550/9565 ( 26.7%) | 0.197s/batch
+[TRAIN] mean acc: 0.605546
+[TRAIN] mean loss: 8.966542
+[TRAIN] Epoch 000 | batch 2560/9565 ( 26.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.605932
+[TRAIN] mean loss: 9.333062
+[TRAIN] Epoch 000 | batch 2570/9565 ( 26.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.618345
+[TRAIN] mean loss: 9.057789
+[TRAIN] Epoch 000 | batch 2580/9565 ( 27.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.656406
+[TRAIN] mean loss: 8.894185
+[TRAIN] Epoch 000 | batch 2590/9565 ( 27.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.633604
+[TRAIN] mean loss: 8.647724
+[TRAIN] Epoch 000 | batch 2600/9565 ( 27.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.644714
+[TRAIN] mean loss: 7.479429
+[TRAIN] Epoch 000 | batch 2610/9565 ( 27.3%) | 0.198s/batch
+[TRAIN] mean acc: 0.668165
+[TRAIN] mean loss: 7.527524
+[TRAIN] Epoch 000 | batch 2620/9565 ( 27.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.623429
+[TRAIN] mean loss: 10.635567
+[TRAIN] Epoch 000 | batch 2630/9565 ( 27.5%) | 0.197s/batch
+[TRAIN] mean acc: 0.652052
+[TRAIN] mean loss: 7.901635
+[TRAIN] Epoch 000 | batch 2640/9565 ( 27.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.624205
+[TRAIN] mean loss: 8.777120
+[TRAIN] Epoch 000 | batch 2650/9565 ( 27.7%) | 0.196s/batch
+[TRAIN] mean acc: 0.637450
+[TRAIN] mean loss: 7.225804
+[TRAIN] Epoch 000 | batch 2660/9565 ( 27.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.630770
+[TRAIN] mean loss: 8.298974
+[TRAIN] Epoch 000 | batch 2670/9565 ( 27.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.683029
+[TRAIN] mean loss: 6.534834
+[TRAIN] Epoch 000 | batch 2680/9565 ( 28.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.661126
+[TRAIN] mean loss: 11.860427
+[TRAIN] Epoch 000 | batch 2690/9565 ( 28.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.674636
+[TRAIN] mean loss: 7.739133
+[TRAIN] Epoch 000 | batch 2700/9565 ( 28.2%) | 0.198s/batch
+[TRAIN] mean acc: 0.654704
+[TRAIN] mean loss: 7.384549
+[TRAIN] Epoch 000 | batch 2710/9565 ( 28.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.670921
+[TRAIN] mean loss: 7.118395
+[TRAIN] Epoch 000 | batch 2720/9565 ( 28.4%) | 0.193s/batch
+[TRAIN] mean acc: 0.625872
+[TRAIN] mean loss: 8.850989
+[TRAIN] Epoch 000 | batch 2730/9565 ( 28.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.684389
+[TRAIN] mean loss: 7.899456
+[TRAIN] Epoch 000 | batch 2740/9565 ( 28.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.683524
+[TRAIN] mean loss: 7.349378
+[TRAIN] Epoch 000 | batch 2750/9565 ( 28.8%) | 0.197s/batch
+[TRAIN] mean acc: 0.678304
+[TRAIN] mean loss: 9.624592
+[TRAIN] Epoch 000 | batch 2760/9565 ( 28.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.675295
+[TRAIN] mean loss: 6.022636
+[TRAIN] Epoch 000 | batch 2770/9565 ( 29.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.698083
+[TRAIN] mean loss: 7.165378
+[TRAIN] Epoch 000 | batch 2780/9565 ( 29.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.687675
+[TRAIN] mean loss: 6.751515
+[TRAIN] Epoch 000 | batch 2790/9565 ( 29.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.665904
+[TRAIN] mean loss: 8.166833
+[TRAIN] Epoch 000 | batch 2800/9565 ( 29.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.624617
+[TRAIN] mean loss: 8.019050
+[TRAIN] Epoch 000 | batch 2810/9565 ( 29.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.683820
+[TRAIN] mean loss: 7.603307
+[TRAIN] Epoch 000 | batch 2820/9565 ( 29.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.648132
+[TRAIN] mean loss: 7.984552
+[TRAIN] Epoch 000 | batch 2830/9565 ( 29.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.677903
+[TRAIN] mean loss: 7.862951
+[TRAIN] Epoch 000 | batch 2840/9565 ( 29.7%) | 0.193s/batch
+[TRAIN] mean acc: 0.653760
+[TRAIN] mean loss: 7.568139
+[TRAIN] Epoch 000 | batch 2850/9565 ( 29.8%) | 0.193s/batch
+[TRAIN] mean acc: 0.666096
+[TRAIN] mean loss: 9.646804
+[TRAIN] Epoch 000 | batch 2860/9565 ( 29.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.635529
+[TRAIN] mean loss: 8.709587
+[TRAIN] Epoch 000 | batch 2870/9565 ( 30.0%) | 0.197s/batch
+[TRAIN] mean acc: 0.647372
+[TRAIN] mean loss: 7.690610
+[TRAIN] Epoch 000 | batch 2880/9565 ( 30.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.673398
+[TRAIN] mean loss: 7.469463
+[TRAIN] Epoch 000 | batch 2890/9565 ( 30.2%) | 0.194s/batch
+[TRAIN] mean acc: 0.678064
+[TRAIN] mean loss: 8.589260
+[TRAIN] Epoch 000 | batch 2900/9565 ( 30.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.676561
+[TRAIN] mean loss: 7.335558
+[TRAIN] Epoch 000 | batch 2910/9565 ( 30.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.727747
+[TRAIN] mean loss: 7.600653
+[TRAIN] Epoch 000 | batch 2920/9565 ( 30.5%) | 0.193s/batch
+[TRAIN] mean acc: 0.650295
+[TRAIN] mean loss: 6.609950
+[TRAIN] Epoch 000 | batch 2930/9565 ( 30.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.692368
+[TRAIN] mean loss: 7.073721
+[TRAIN] Epoch 000 | batch 2940/9565 ( 30.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.691661
+[TRAIN] mean loss: 7.908499
+[TRAIN] Epoch 000 | batch 2950/9565 ( 30.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.680629
+[TRAIN] mean loss: 6.882397
+[TRAIN] Epoch 000 | batch 2960/9565 ( 30.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.728516
+[TRAIN] mean loss: 6.086312
+[TRAIN] Epoch 000 | batch 2970/9565 ( 31.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.727981
+[TRAIN] mean loss: 7.499287
+[TRAIN] Epoch 000 | batch 2980/9565 ( 31.2%) | 0.197s/batch
+[TRAIN] mean acc: 0.665484
+[TRAIN] mean loss: 7.082181
+[TRAIN] Epoch 000 | batch 2990/9565 ( 31.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.715303
+[TRAIN] mean loss: 8.625741
+[TRAIN] Epoch 000 | batch 3000/9565 ( 31.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.659727
+[TRAIN] mean loss: 7.012545
+[TRAIN] Epoch 000 | batch 3010/9565 ( 31.5%) | 0.197s/batch
+[TRAIN] mean acc: 0.667768
+[TRAIN] mean loss: 6.725933
+[TRAIN] Epoch 000 | batch 3020/9565 ( 31.6%) | 0.199s/batch
+[TRAIN] mean acc: 0.658622
+[TRAIN] mean loss: 9.171414
+[TRAIN] Epoch 000 | batch 3030/9565 ( 31.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.595300
+[TRAIN] mean loss: 8.031378
+[TRAIN] Epoch 000 | batch 3040/9565 ( 31.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.623339
+[TRAIN] mean loss: 9.065083
+[TRAIN] Epoch 000 | batch 3050/9565 ( 31.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.666809
+[TRAIN] mean loss: 8.420082
+[TRAIN] Epoch 000 | batch 3060/9565 ( 32.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.674787
+[TRAIN] mean loss: 6.562857
+[TRAIN] Epoch 000 | batch 3070/9565 ( 32.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.649795
+[TRAIN] mean loss: 9.398066
+[TRAIN] Epoch 000 | batch 3080/9565 ( 32.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.677071
+[TRAIN] mean loss: 7.557999
+[TRAIN] Epoch 000 | batch 3090/9565 ( 32.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.626444
+[TRAIN] mean loss: 7.951100
+[TRAIN] Epoch 000 | batch 3100/9565 ( 32.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.689400
+[TRAIN] mean loss: 6.473547
+[TRAIN] Epoch 000 | batch 3110/9565 ( 32.5%) | 0.192s/batch
+[TRAIN] mean acc: 0.696034
+[TRAIN] mean loss: 8.152826
+[TRAIN] Epoch 000 | batch 3120/9565 ( 32.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.719210
+[TRAIN] mean loss: 6.456397
+[TRAIN] Epoch 000 | batch 3130/9565 ( 32.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.688764
+[TRAIN] mean loss: 7.756612
+[TRAIN] Epoch 000 | batch 3140/9565 ( 32.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.694952
+[TRAIN] mean loss: 6.400071
+[TRAIN] Epoch 000 | batch 3150/9565 ( 32.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.651173
+[TRAIN] mean loss: 7.805923
+[TRAIN] Epoch 000 | batch 3160/9565 ( 33.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.680357
+[TRAIN] mean loss: 8.645045
+[TRAIN] Epoch 000 | batch 3170/9565 ( 33.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.624123
+[TRAIN] mean loss: 8.922387
+[TRAIN] Epoch 000 | batch 3180/9565 ( 33.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.622158
+[TRAIN] mean loss: 8.127187
+[TRAIN] Epoch 000 | batch 3190/9565 ( 33.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.674332
+[TRAIN] mean loss: 8.866964
+[TRAIN] Epoch 000 | batch 3200/9565 ( 33.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.673572
+[TRAIN] mean loss: 6.809869
+[TRAIN] Epoch 000 | batch 3210/9565 ( 33.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.676124
+[TRAIN] mean loss: 6.641422
+[TRAIN] Epoch 000 | batch 3220/9565 ( 33.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.673830
+[TRAIN] mean loss: 8.970503
+[TRAIN] Epoch 000 | batch 3230/9565 ( 33.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.673159
+[TRAIN] mean loss: 7.199705
+[TRAIN] Epoch 000 | batch 3240/9565 ( 33.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.706430
+[TRAIN] mean loss: 6.974588
+[TRAIN] Epoch 000 | batch 3250/9565 ( 34.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.657233
+[TRAIN] mean loss: 8.540737
+[TRAIN] Epoch 000 | batch 3260/9565 ( 34.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.642443
+[TRAIN] mean loss: 7.980359
+[TRAIN] Epoch 000 | batch 3270/9565 ( 34.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.632004
+[TRAIN] mean loss: 7.418359
+[TRAIN] Epoch 000 | batch 3280/9565 ( 34.3%) | 0.193s/batch
+[TRAIN] mean acc: 0.676839
+[TRAIN] mean loss: 7.175582
+[TRAIN] Epoch 000 | batch 3290/9565 ( 34.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.703163
+[TRAIN] mean loss: 7.291131
+[TRAIN] Epoch 000 | batch 3300/9565 ( 34.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.696587
+[TRAIN] mean loss: 7.942748
+[TRAIN] Epoch 000 | batch 3310/9565 ( 34.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.670876
+[TRAIN] mean loss: 7.177388
+[TRAIN] Epoch 000 | batch 3320/9565 ( 34.7%) | 0.199s/batch
+[TRAIN] mean acc: 0.709446
+[TRAIN] mean loss: 6.140357
+[TRAIN] Epoch 000 | batch 3330/9565 ( 34.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.723582
+[TRAIN] mean loss: 6.934448
+[TRAIN] Epoch 000 | batch 3340/9565 ( 34.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.676099
+[TRAIN] mean loss: 7.910520
+[TRAIN] Epoch 000 | batch 3350/9565 ( 35.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.706082
+[TRAIN] mean loss: 6.132194
+[TRAIN] Epoch 000 | batch 3360/9565 ( 35.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.708413
+[TRAIN] mean loss: 7.182624
+[TRAIN] Epoch 000 | batch 3370/9565 ( 35.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.699612
+[TRAIN] mean loss: 7.016160
+[TRAIN] Epoch 000 | batch 3380/9565 ( 35.3%) | 0.193s/batch
+[TRAIN] mean acc: 0.664012
+[TRAIN] mean loss: 7.047926
+[TRAIN] Epoch 000 | batch 3390/9565 ( 35.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.658635
+[TRAIN] mean loss: 9.340257
+[TRAIN] Epoch 000 | batch 3400/9565 ( 35.5%) | 0.194s/batch
+[TRAIN] mean acc: 0.687408
+[TRAIN] mean loss: 6.500198
+[TRAIN] Epoch 000 | batch 3410/9565 ( 35.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.664996
+[TRAIN] mean loss: 9.283243
+[TRAIN] Epoch 000 | batch 3420/9565 ( 35.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.660575
+[TRAIN] mean loss: 10.262372
+[TRAIN] Epoch 000 | batch 3430/9565 ( 35.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.646953
+[TRAIN] mean loss: 7.869886
+[TRAIN] Epoch 000 | batch 3440/9565 ( 36.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.699025
+[TRAIN] mean loss: 7.130333
+[TRAIN] Epoch 000 | batch 3450/9565 ( 36.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.687913
+[TRAIN] mean loss: 6.613409
+[TRAIN] Epoch 000 | batch 3460/9565 ( 36.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.694714
+[TRAIN] mean loss: 6.261688
+[TRAIN] Epoch 000 | batch 3470/9565 ( 36.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.705885
+[TRAIN] mean loss: 7.515491
+[TRAIN] Epoch 000 | batch 3480/9565 ( 36.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.675834
+[TRAIN] mean loss: 7.147391
+[TRAIN] Epoch 000 | batch 3490/9565 ( 36.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.670576
+[TRAIN] mean loss: 7.991098
+[TRAIN] Epoch 000 | batch 3500/9565 ( 36.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.679189
+[TRAIN] mean loss: 7.756423
+[TRAIN] Epoch 000 | batch 3510/9565 ( 36.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.719045
+[TRAIN] mean loss: 7.546693
+[TRAIN] Epoch 000 | batch 3520/9565 ( 36.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.663190
+[TRAIN] mean loss: 6.363288
+[TRAIN] Epoch 000 | batch 3530/9565 ( 36.9%) | 0.200s/batch
+[TRAIN] mean acc: 0.680655
+[TRAIN] mean loss: 6.613638
+[TRAIN] Epoch 000 | batch 3540/9565 ( 37.0%) | 0.194s/batch
+[TRAIN] mean acc: 0.645684
+[TRAIN] mean loss: 7.790083
+[TRAIN] Epoch 000 | batch 3550/9565 ( 37.1%) | 0.198s/batch
+[TRAIN] mean acc: 0.699538
+[TRAIN] mean loss: 7.073862
+[TRAIN] Epoch 000 | batch 3560/9565 ( 37.2%) | 0.197s/batch
+[TRAIN] mean acc: 0.722300
+[TRAIN] mean loss: 5.981618
+[TRAIN] Epoch 000 | batch 3570/9565 ( 37.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.695447
+[TRAIN] mean loss: 7.838756
+[TRAIN] Epoch 000 | batch 3580/9565 ( 37.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.681660
+[TRAIN] mean loss: 8.027751
+[TRAIN] Epoch 000 | batch 3590/9565 ( 37.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.658864
+[TRAIN] mean loss: 7.724185
+[TRAIN] Epoch 000 | batch 3600/9565 ( 37.6%) | 0.193s/batch
+[TRAIN] mean acc: 0.688343
+[TRAIN] mean loss: 6.598749
+[TRAIN] Epoch 000 | batch 3610/9565 ( 37.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.682652
+[TRAIN] mean loss: 7.467548
+[TRAIN] Epoch 000 | batch 3620/9565 ( 37.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.684544
+[TRAIN] mean loss: 7.283715
+[TRAIN] Epoch 000 | batch 3630/9565 ( 38.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.713561
+[TRAIN] mean loss: 8.313135
+[TRAIN] Epoch 000 | batch 3640/9565 ( 38.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.727800
+[TRAIN] mean loss: 6.884943
+[TRAIN] Epoch 000 | batch 3650/9565 ( 38.2%) | 0.194s/batch
+[TRAIN] mean acc: 0.703384
+[TRAIN] mean loss: 8.567762
+[TRAIN] Epoch 000 | batch 3660/9565 ( 38.3%) | 0.198s/batch
+[TRAIN] mean acc: 0.675833
+[TRAIN] mean loss: 6.877892
+[TRAIN] Epoch 000 | batch 3670/9565 ( 38.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.718591
+[TRAIN] mean loss: 6.522194
+[TRAIN] Epoch 000 | batch 3680/9565 ( 38.5%) | 0.198s/batch
+[TRAIN] mean acc: 0.674440
+[TRAIN] mean loss: 7.523766
+[TRAIN] Epoch 000 | batch 3690/9565 ( 38.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.678077
+[TRAIN] mean loss: 6.607873
+[TRAIN] Epoch 000 | batch 3700/9565 ( 38.7%) | 0.197s/batch
+[TRAIN] mean acc: 0.723145
+[TRAIN] mean loss: 7.719162
+[TRAIN] Epoch 000 | batch 3710/9565 ( 38.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.714927
+[TRAIN] mean loss: 8.785050
+[TRAIN] Epoch 000 | batch 3720/9565 ( 38.9%) | 0.195s/batch
+[TRAIN] mean acc: 0.687948
+[TRAIN] mean loss: 7.057055
+[TRAIN] Epoch 000 | batch 3730/9565 ( 39.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.681422
+[TRAIN] mean loss: 8.308421
+[TRAIN] Epoch 000 | batch 3740/9565 ( 39.1%) | 0.198s/batch
+[TRAIN] mean acc: 0.692266
+[TRAIN] mean loss: 6.607413
+[TRAIN] Epoch 000 | batch 3750/9565 ( 39.2%) | 0.198s/batch
+[TRAIN] mean acc: 0.694886
+[TRAIN] mean loss: 6.169019
+[TRAIN] Epoch 000 | batch 3760/9565 ( 39.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.683521
+[TRAIN] mean loss: 7.058364
+[TRAIN] Epoch 000 | batch 3770/9565 ( 39.4%) | 0.193s/batch
+[TRAIN] mean acc: 0.687642
+[TRAIN] mean loss: 7.063420
+[TRAIN] Epoch 000 | batch 3780/9565 ( 39.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.729185
+[TRAIN] mean loss: 6.393193
+[TRAIN] Epoch 000 | batch 3790/9565 ( 39.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.705282
+[TRAIN] mean loss: 6.141031
+[TRAIN] Epoch 000 | batch 3800/9565 ( 39.7%) | 0.197s/batch
+[TRAIN] mean acc: 0.705652
+[TRAIN] mean loss: 7.348795
+[TRAIN] Epoch 000 | batch 3810/9565 ( 39.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.710900
+[TRAIN] mean loss: 6.772460
+[TRAIN] Epoch 000 | batch 3820/9565 ( 39.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.728859
+[TRAIN] mean loss: 5.729659
+[TRAIN] Epoch 000 | batch 3830/9565 ( 40.0%) | 0.199s/batch
+[TRAIN] mean acc: 0.705818
+[TRAIN] mean loss: 7.642207
+[TRAIN] Epoch 000 | batch 3840/9565 ( 40.1%) | 0.199s/batch
+[TRAIN] mean acc: 0.700633
+[TRAIN] mean loss: 6.971337
+[TRAIN] Epoch 000 | batch 3850/9565 ( 40.3%) | 0.197s/batch
+[TRAIN] mean acc: 0.708074
+[TRAIN] mean loss: 7.194696
+[TRAIN] Epoch 000 | batch 3860/9565 ( 40.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.666169
+[TRAIN] mean loss: 7.737229
+[TRAIN] Epoch 000 | batch 3870/9565 ( 40.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.696647
+[TRAIN] mean loss: 6.098640
+[TRAIN] Epoch 000 | batch 3880/9565 ( 40.6%) | 0.196s/batch
+[TRAIN] mean acc: 0.711972
+[TRAIN] mean loss: 6.200215
+[TRAIN] Epoch 000 | batch 3890/9565 ( 40.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.726950
+[TRAIN] mean loss: 8.200993
+[TRAIN] Epoch 000 | batch 3900/9565 ( 40.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.723478
+[TRAIN] mean loss: 8.614355
+[TRAIN] Epoch 000 | batch 3910/9565 ( 40.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.719439
+[TRAIN] mean loss: 6.604730
+[TRAIN] Epoch 000 | batch 3920/9565 ( 41.0%) | 0.195s/batch
+[TRAIN] mean acc: 0.687818
+[TRAIN] mean loss: 7.849990
+[TRAIN] Epoch 000 | batch 3930/9565 ( 41.1%) | 0.194s/batch
+[TRAIN] mean acc: 0.702623
+[TRAIN] mean loss: 8.166552
+[TRAIN] Epoch 000 | batch 3940/9565 ( 41.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.678733
+[TRAIN] mean loss: 9.697111
+[TRAIN] Epoch 000 | batch 3950/9565 ( 41.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.696504
+[TRAIN] mean loss: 6.669072
+[TRAIN] Epoch 000 | batch 3960/9565 ( 41.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.680364
+[TRAIN] mean loss: 6.444723
+[TRAIN] Epoch 000 | batch 3970/9565 ( 41.5%) | 0.198s/batch
+[TRAIN] mean acc: 0.666192
+[TRAIN] mean loss: 7.625886
+[TRAIN] Epoch 000 | batch 3980/9565 ( 41.6%) | 0.193s/batch
+[TRAIN] mean acc: 0.702194
+[TRAIN] mean loss: 7.494389
+[TRAIN] Epoch 000 | batch 3990/9565 ( 41.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.713927
+[TRAIN] mean loss: 6.757467
+[TRAIN] Epoch 000 | batch 4000/9565 ( 41.8%) | 0.196s/batch
+[TRAIN] mean acc: 0.714407
+[TRAIN] mean loss: 8.303684
+[TRAIN] Epoch 000 | batch 4010/9565 ( 41.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.652890
+[TRAIN] mean loss: 6.804622
+[TRAIN] Epoch 000 | batch 4020/9565 ( 42.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.697633
+[TRAIN] mean loss: 7.817131
+[TRAIN] Epoch 000 | batch 4030/9565 ( 42.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.634697
+[TRAIN] mean loss: 7.223351
+[TRAIN] Epoch 000 | batch 4040/9565 ( 42.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.709059
+[TRAIN] mean loss: 6.173786
+[TRAIN] Epoch 000 | batch 4050/9565 ( 42.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.755674
+[TRAIN] mean loss: 5.794665
+[TRAIN] Epoch 000 | batch 4060/9565 ( 42.4%) | 0.196s/batch
+[TRAIN] mean acc: 0.697190
+[TRAIN] mean loss: 6.504213
+[TRAIN] Epoch 000 | batch 4070/9565 ( 42.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.684736
+[TRAIN] mean loss: 7.270831
+[TRAIN] Epoch 000 | batch 4080/9565 ( 42.7%) | 0.194s/batch
+[TRAIN] mean acc: 0.711994
+[TRAIN] mean loss: 8.231001
+[TRAIN] Epoch 000 | batch 4090/9565 ( 42.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.698430
+[TRAIN] mean loss: 6.771992
+[TRAIN] Epoch 000 | batch 4100/9565 ( 42.9%) | 0.196s/batch
+[TRAIN] mean acc: 0.699138
+[TRAIN] mean loss: 6.060175
+[TRAIN] Epoch 000 | batch 4110/9565 ( 43.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.740590
+[TRAIN] mean loss: 5.513602
+[TRAIN] Epoch 000 | batch 4120/9565 ( 43.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.711028
+[TRAIN] mean loss: 7.516120
+[TRAIN] Epoch 000 | batch 4130/9565 ( 43.2%) | 0.197s/batch
+[TRAIN] mean acc: 0.712951
+[TRAIN] mean loss: 6.686367
+[TRAIN] Epoch 000 | batch 4140/9565 ( 43.3%) | 0.195s/batch
+[TRAIN] mean acc: 0.698242
+[TRAIN] mean loss: 7.243620
+[TRAIN] Epoch 000 | batch 4150/9565 ( 43.4%) | 0.195s/batch
+[TRAIN] mean acc: 0.707356
+[TRAIN] mean loss: 6.927190
+[TRAIN] Epoch 000 | batch 4160/9565 ( 43.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.706863
+[TRAIN] mean loss: 7.610284
+[TRAIN] Epoch 000 | batch 4170/9565 ( 43.6%) | 0.195s/batch
+[TRAIN] mean acc: 0.713611
+[TRAIN] mean loss: 5.817986
+[TRAIN] Epoch 000 | batch 4180/9565 ( 43.7%) | 0.199s/batch
+[TRAIN] mean acc: 0.711268
+[TRAIN] mean loss: 6.623256
+[TRAIN] Epoch 000 | batch 4190/9565 ( 43.8%) | 0.195s/batch
+[TRAIN] mean acc: 0.710349
+[TRAIN] mean loss: 7.362844
+[TRAIN] Epoch 000 | batch 4200/9565 ( 43.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.710535
+[TRAIN] mean loss: 5.987423
+[TRAIN] Epoch 000 | batch 4210/9565 ( 44.0%) | 0.196s/batch
+[TRAIN] mean acc: 0.719564
+[TRAIN] mean loss: 8.338713
+[TRAIN] Epoch 000 | batch 4220/9565 ( 44.1%) | 0.197s/batch
+[TRAIN] mean acc: 0.698624
+[TRAIN] mean loss: 7.041248
+[TRAIN] Epoch 000 | batch 4230/9565 ( 44.2%) | 0.195s/batch
+[TRAIN] mean acc: 0.644427
+[TRAIN] mean loss: 8.430705
+[TRAIN] Epoch 000 | batch 4240/9565 ( 44.3%) | 0.196s/batch
+[TRAIN] mean acc: 0.693930
+[TRAIN] mean loss: 6.770419
+[TRAIN] Epoch 000 | batch 4250/9565 ( 44.4%) | 0.197s/batch
+[TRAIN] mean acc: 0.693142
+[TRAIN] mean loss: 8.764685
+[TRAIN] Epoch 000 | batch 4260/9565 ( 44.5%) | 0.196s/batch
+[TRAIN] mean acc: 0.684528
+[TRAIN] mean loss: 6.462505
+[TRAIN] Epoch 000 | batch 4270/9565 ( 44.6%) | 0.197s/batch
+[TRAIN] mean acc: 0.705293
+[TRAIN] mean loss: 7.105001
+[TRAIN] Epoch 000 | batch 4280/9565 ( 44.7%) | 0.198s/batch
+[TRAIN] mean acc: 0.714432
+[TRAIN] mean loss: 7.351077
+[TRAIN] Epoch 000 | batch 4290/9565 ( 44.9%) | 0.194s/batch
+[TRAIN] mean acc: 0.732683
+[TRAIN] mean loss: 6.818087
+[TRAIN] Epoch 000 | batch 4300/9565 ( 45.0%) | 0.200s/batch
+[TRAIN] mean acc: 0.736301
+[TRAIN] mean loss: 7.083758
+[TRAIN] Epoch 000 | batch 4310/9565 ( 45.1%) | 0.195s/batch
+[TRAIN] mean acc: 0.685973
+[TRAIN] mean loss: 6.218695
+[TRAIN] Epoch 000 | batch 4320/9565 ( 45.2%) | 0.196s/batch
+[TRAIN] mean acc: 0.719021
+[TRAIN] mean loss: 6.848451
+[TRAIN] Epoch 000 | batch 4330/9565 ( 45.3%) | 0.194s/batch
+[TRAIN] mean acc: 0.721149
+[TRAIN] mean loss: 7.757921
+[TRAIN] Epoch 000 | batch 4340/9565 ( 45.4%) | 0.194s/batch
+[TRAIN] mean acc: 0.633508
+[TRAIN] mean loss: 7.250340
+[TRAIN] Epoch 000 | batch 4350/9565 ( 45.5%) | 0.195s/batch
+[TRAIN] mean acc: 0.705912
+[TRAIN] mean loss: 8.501575
+[TRAIN] Epoch 000 | batch 4360/9565 ( 45.6%) | 0.194s/batch
+[TRAIN] mean acc: 0.678603
+[TRAIN] mean loss: 8.984576
+[TRAIN] Epoch 000 | batch 4370/9565 ( 45.7%) | 0.195s/batch
+[TRAIN] mean acc: 0.686546
+[TRAIN] mean loss: 7.793484
+[TRAIN] Epoch 000 | batch 4380/9565 ( 45.8%) | 0.194s/batch
+[TRAIN] mean acc: 0.690726
+[TRAIN] mean loss: 6.024205
+[TRAIN] Epoch 000 | batch 4390/9565 ( 45.9%) | 0.197s/batch
+[TRAIN] mean acc: 0.769851
+[TRAIN] mean loss: 6.129134
+[TRAIN] Epoch 000 | batch 4400/9565 ( 46.0%) | 0.198s/batch
+[TRAIN] mean acc: 0.720630
+[TRAIN] mean loss: 6.693900
+[TRAIN] Epoch 000 | batch 4410/9565 ( 46.1%) | 0.196s/batch
+[TRAIN] mean acc: 0.687248
+[TRAIN] mean loss: 6.726125
