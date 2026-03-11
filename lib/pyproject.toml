@@ -1,0 +1,26 @@
+[project]
+name = "lib"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9.25"
+dependencies = [
+    "torch==2.5.0",
+    "torchvision",
+    "torchaudio",
+    "numpy==1.23.5",
+    "tqdm==4.67.3",
+]
+
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu121" }
+torchvision = { index = "pytorch-cu121" }
+torchaudio = { index = "pytorch-cu121" }
+# Point directly to the wheel for Python 3.9 + Linux + CUDA 12.1
+torch-scatter = { url = "https://data.pyg.org/whl/torch-2.5.0%2Bcu121/torch_scatter-2.1.2%2Bpt25cu121-cp39-cp39-linux_x86_64.whl" }
