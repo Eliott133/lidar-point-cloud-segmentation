@@ -75,3 +75,32 @@ class RandomRotationZ(object):
             sample['points'] = rotated_points
             
         return sample
+    
+class FixedPointSampler(object):
+    """
+    Échantillonne un nombre fixe de points pour que PointNet puisse 
+    traiter les données sous forme de tenseur dense (B, C, N).
+    """
+    def __init__(self, num_points=8192):
+        self.num_points = num_points
+
+    def __call__(self, sample):
+        points = sample['points']
+        num_current_points = points.shape[0]
+        
+        # Tirage aléatoire des indices
+        if num_current_points >= self.num_points:
+            # Sans remise si on a assez de points
+            indices = np.random.choice(num_current_points, self.num_points, replace=False)
+        else:
+            # Avec remise si le nuage est trop petit (très rare sur KITTI)
+            indices = np.random.choice(num_current_points, self.num_points, replace=True)
+            
+        sample['points'] = points[indices]
+        if 'remissions' in sample:
+            sample['remissions'] = sample['remissions'][indices]
+        if 'semantics' in sample:
+            sample['semantics'] = sample['semantics'][indices]
+            sample['instances'] = sample['instances'][indices]
+            
+        return sample
