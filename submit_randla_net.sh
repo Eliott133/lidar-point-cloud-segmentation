@@ -21,19 +21,15 @@ echo "===================================="
 
 REPO_DIR=./RandLA-Net-pytorch
 
-mkdir -p "${REPO_DIR}/logs"
-cd "${REPO_DIR}" || exit 1
-uv venv --python 3.9
-echo "Repo: ${REPO_DIR}"
+cd "$REPO_DIR"
 
-echo "========= ACTIVATE UV ENV ========="
-source .venv/bin/activate
+export CUDA_HOME=/opt/cuda/12.4
+export PATH=$CUDA_HOME/bin:$PATH
+export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH
 
-echo "========= PYTHON INFO ========="
-uv run --active python -c "import sys; print('Python:', sys.executable)"
-uv run --active python -c "import torch; print('Torch:', torch.__version__); print('CUDA available:', torch.cuda.is_available())"
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+export PYTHONPATH=$PWD:$PYTHONPATH
 
-echo "========= GPU INFO ========="
 nvidia-smi
 
 echo "===================================="
@@ -43,15 +39,13 @@ echo "===================================="
 ls /info/raid-etu/m2/s2405735/pretrainned | head
 ls /info/raid-etu/m2/s2405735/pretrainned/sequences_0.06 | head
 
+uv run sh compile_op.sh
+
 echo "===================================="
 echo "STEP 2: START TRAINING"
 echo "===================================="
 
-uv run --active python main_SemanticKITTI.py \
-  --checkpoint_path output/checkpoint.tar \
-  --log_dir logs \
-  --max_epoch 150 \
-  --batch_size 2
+uv run python main_SemanticKITTI.py --log_dir logs --max_epoch 150 --batch_size 2
 echo "===================================="
 echo "TRAINING FINISHED"
 echo "===================================="
