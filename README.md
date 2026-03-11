@@ -99,6 +99,13 @@ L'ensemble de données contient 28 classes, dont certaines distinguent les objet
 
 > [Source de l'image](https://semantic-kitti.org/dataset.html)
 
+`configs/semantic-kitti.yaml` définit la manière dont les données du dataset SemanticKITTI sont interprétées, traitées et évaluées. On y retrouve :
+- Définition des labels
+- Carte des couleurs
+- Statistiques de contenu
+- Mapping d'apprentissage
+- Mapping inverse et ignorés
+
 ### Development Kit (DevKit)
 Un kit de développement officiel (API) est proposé pour faciliter la manipulation de ce dataset. Ce DevKit inclut divers outils et scripts permettant de :
 
