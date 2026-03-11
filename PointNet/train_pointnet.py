@@ -12,7 +12,7 @@ from pathlib import Path
 # --- Import de vos modules locaux ---
 from datasets.semantic_kitti import SemanticKittiDataset
 from datasets.transforms import SemanticKittiLabelRemap, ToTensor, RandomRotationZ, FixedPointSampler
-from model_architecture import PointNetSegmentation 
+from pointnet import PointNetSegmentation 
 
 def feature_transform_regularizer(trans):
     """
