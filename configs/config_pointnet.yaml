@@ -1,13 +1,25 @@
-# config.yaml
+# --- Configuration de l'architecture du Modèle ---
 model:
-  in_channels: 4      # Par exemple : X, Y, Z, Intensité
-  num_classes: 20
-  
+  in_channels: 3
+  num_classes: 20 # 19 classes + 1 ignorée (0)
   encoder:
-    channels: [64, 64, 64, 128, 1024]
-    local_feature_index: 1          # Index de la couche pour extraire les features locales
-    feature_transform_index: 1      # Index de la couche après laquelle appliquer le T-Net latent
-    
+    channels: [64, 128, 1024]
+    local_feature_index: 0
+    feature_transform_index: 1
   decoder:
     channels: [512, 256, 128]
     dropout_rate: 0.3
+
+# --- Configuration de l'Entraînement ---
+training:
+  num_points: 8192
+  batch_size: 8
+  epochs: 50
+  learning_rate: 0.001
+  reg_weight: 0.001 # Poids de la régularisation du T-Net
+
+# --- Configuration des Données ---
+dataset:
+  root_dir: "/info/corpus/SemanticKITTI/dataset"
+  train_sequences: ['00', '01', '02', '03', '04', '05', '06', '07', '09', '10']
+  val_sequences: ['08']
