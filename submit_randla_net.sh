@@ -19,11 +19,11 @@ echo "SLURM_JOB_ID: $SLURM_JOB_ID"
 echo "Date: $(date)"
 echo "===================================="
 
-REPO_DIR=/info/raid-etu/m2/s2405735/projet_2sem/lidar-point-cloud-segmentation/RandLA-Net-pytorch
+REPO_DIR=./RandLA-Net-pytorch
 
 mkdir -p "${REPO_DIR}/logs"
 cd "${REPO_DIR}" || exit 1
-
+uv venv --python 3.9
 echo "Repo: ${REPO_DIR}"
 
 echo "========= ACTIVATE UV ENV ========="
@@ -50,7 +50,7 @@ echo "===================================="
 uv run --active python main_SemanticKITTI.py \
   --checkpoint_path output/checkpoint.tar \
   --log_dir logs \
-  --max_epoch 20 \
+  --max_epoch 150 \
   --batch_size 2
 echo "===================================="
 echo "TRAINING FINISHED"
