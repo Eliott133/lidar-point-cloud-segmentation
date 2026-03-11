@@ -70,19 +70,37 @@ Official dataset:
 
 https://semantic-kitti.org/
 
+
 ---
 
-# Installation 
+# Installation avec UV
 
-## 1. Create environnement and launch some command to trainning
+Ce projet utilise **uv** pour gérer l’environnement Python.
+
+## 1. Créer l’environnement virtuel
+
+Depuis le dossier du projet :
 
 ```bash
-conda create -n randlanet python=3.9
-conda activate randlanet
+cd RandLA-Net-pytorch
+uv venv --python 3.9
 
-pip install -r requirements.txt
+source .venv/bin/activate
 
-sh compile_op.sh
+uv sync
+
+#Installation de torch
+
+uv pip install \
+torch==2.6.0+cu124 \
+torchvision==0.21.0+cu124 \
+--index-url https://download.pytorch.org/whl/cu124
+
+#Compilation des opérations C++
+
+uv run --active sh compile_op.sh
+
+#Lancer l'entrainnement
 
 sbatch train_randlnet.sbatch
 
