@@ -13,7 +13,7 @@
 
 cd $SLURM_SUBMIT_DIR
 
-cd ./Pointcept_github
+cd ./Pointcept
 
 module purge
 module load cuda
