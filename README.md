@@ -163,5 +163,7 @@ sbatch submit_pointnet.sh # # Pour lancer l'entrainement du modèle PointNet
 sbatch submit_randla_net.sh # # Pour lancer l'entrainement du modèle RandLa-Net
 ```
 
-Ces scripts lancent un job sur la machine gpue06 et crée l'environnement adéquat directement
+Ces scripts lancent un job sur la machine gpue06 et crée l'environnement adéquat directement.
+
+Vous pouvez configurer les modèles dans le dossier `configs` située à la racine
 
