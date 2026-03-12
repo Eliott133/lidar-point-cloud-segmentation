@@ -1,16 +1,14 @@
 [project]
 name = "randla-net-pytorch"
 version = "0.1.0"
-description = "Add your description here"
+description = "RandLA-Net on SemanticKITTI"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.9,<3.10"
 dependencies = [
     "cython==0.29.37",
-    "torch==2.6.0",
-    "torchvision",
     "matplotlib>=3.9.4",
-    "numpy",
-    "pandas>=2.1.0",
+    "numpy==1.23.5",
+    "pandas<2.0",
     "pyyaml==6.0.3",
     "scikit-learn>=1.6.1",
     "scipy>=1.13.1",
@@ -18,7 +16,12 @@ dependencies = [
     "tensorboard>=2.20.0",
     "tqdm==4.67.3",
     "wheel==0.45.1",
+    "torch==2.6.0",
+    "torchvision==0.21.0",
 ]
+
+[tool.uv]
+package = false
 
 [[tool.uv.index]]
 name = "pytorch-cu124"
@@ -28,6 +31,3 @@ explicit = true
 [tool.uv.sources]
 torch = { index = "pytorch-cu124" }
 torchvision = { index = "pytorch-cu124" }
-torchaudio = { index = "pytorch-cu124" }
-
-

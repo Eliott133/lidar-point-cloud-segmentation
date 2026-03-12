@@ -4,7 +4,7 @@
 #SBATCH --error=logs/train_cyl3d_kitti_%j.err
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=10
+#SBATCH --cpus-per-task=20
 #SBATCH --mem=80G
 #SBATCH --gres=gpu:1
 #SBATCH --time=150:00:00
