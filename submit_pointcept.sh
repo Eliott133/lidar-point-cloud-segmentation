@@ -47,4 +47,4 @@ fi
 
 echo "Démarrage de l'entraînement."
 
-uv run python tools/train.py --config-file ../configs/semseg-pt-v2m2-0-base.py --options save_path=exp/semantic_kitti/run_ptv2_kitti
+uv run python tools/train.py --config-file ../configs/config_pointcept.py --options save_path=exp/semantic_kitti/run_ptv2_kitti
