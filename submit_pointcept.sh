@@ -26,4 +26,25 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 export PYTHONPATH=$PWD:$PYTHONPATH
 
 nvidia-smi
+
+echo " Vérification de la bibliothèque C++ (Pointops."
+
+if ! uv run python -c "import pointops" &> /dev/null; then
+    echo " Pointops non trouvé. Compilation en cours (3-5 minutes."
+    
+    # Variables spécifiques pour éviter que le cluster ne plante par manque de RAM
+    export MAX_JOBS=2
+    export TORCH_CUDA_ARCH_LIST="7.5;8.0;8.6;8.9;9.0"
+    
+    cd libs/pointops
+    uv run python setup.py install
+    cd ../..
+    
+    echo " Compilation de Pointops terminée avec succs"
+else
+    echo " Pointop trouvé."
+fi
+
+echo "Démarrage de l'entraînement."
+
 uv run python tools/train.py --config-file ../configs/semseg-pt-v2m2-0-base.py --options save_path=exp/semantic_kitti/run_ptv2_kitti
